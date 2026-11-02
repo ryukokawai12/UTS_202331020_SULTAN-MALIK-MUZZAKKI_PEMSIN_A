@@ -1,0 +1,1024 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>nama_tps</b></th><th><b>alamat_tps</b></th><th><b>kelurahan</b></th><th><b>kecamatan</b></th><th><b>wilayah</b></th><th><b>jenis_tps</b></th><th><b>luas_lahan</b></th><th><b>status_lahan</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2020</td><td>LPS TANJUNG BARAT INDAH</td><td>JLN.N. TERATAI I BLOK A1 NO 12 RT 03/02        (JLN.N. TANJUNG BARAT INDAH)</td><td>TANJUNG BARAT</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TANJUNG MAS RAYA</td><td>MERAK MAS NO 5 RT 01/06                         (JLN.N. TANJUNG MAS RAYA)</td><td>TANJUNG BARAT</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW.08 LENTENG AGUNG</td><td>JLN.N. RAYA LENTENG AGUNG NO 131 B                             RT 01 RW 08</td><td>LENTENG AGUNG</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>100</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>LPS ASELIH</td><td>JLN.N. SWADAYA BLOK SWADAYA NO 55            RT 02/01</td><td>CIPEDAK</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>LPS MATOA GOLF</td><td>JLN.N. LONTAR NO 4 / JLN.N. MATOA GOLF RAYA</td><td>CIPEDAK</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 08 SETU BABAKAN</td><td>JLN.N. PERIKANAN II NO 43 RT 06/08</td><td>SRENGSENG SAWAH</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW.04</td><td>JLN.N. AGUNG RAYA II NO 40 RT 02/04</td><td>LENTENG AGUNG</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS ASRAMA DLH</td><td>JLN. CAMAT GABUN I BLOK BARAK B NO 1         RT 02/09</td><td>LENTENG AGUNG</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>TPS 3R</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW 06</td><td>JLN. GINTUNG NO 28 RT 01/06</td><td>TANJUNG BARAT</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 H. SHIBI</td><td>JLN. LENTENG TIMUR RT 10/02</td><td>LENTENG AGUNG</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS IISIP LENTENG AGUNG</td><td>JLN. LENTENG AGUNG BLOK SUKUN NO 5A RT 08/01</td><td>LENTENG AGUNG</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO SIAGA</td><td>JLN. WR JATI TIMUR SIAGA RAYA NO 46          RT 12/04</td><td>PEJATEN BARAT</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>3000</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO BRIMOB</td><td>JLN. KOMP BANGDES NO 2 RT 01/02</td><td>PEJATEN BARAT</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>KOBER</td><td>JLN. KEBAGUSAN I NO 39 RT 09/07</td><td>KEBAGUSAN</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KEMUNING</td><td>JLN. KEMUNING DALAM I BLOK D NO 28 RT 07/06</td><td>PEJATEN TIMUR</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW 08</td><td>JLN. KEMANG SELATAN I C NO 21 B RT 10/08</td><td>PEJATEN TIMUR</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>200</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER BUNCIT INDAH</td><td>JLN. MIMASO IX BLOK N NO 8 RT 09/04</td><td>PEJATEN BARAT</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>150</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>JALAN BUNTU</td><td>BELAKANG TERMINAL PASAR MINGGU          RT 07/01</td><td>PASAR MINGGU</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>IIP</td><td>JLN. KENANGA NO II D RT 03/06</td><td>CILANDAK TIMUR</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>300</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>RW 08 SACO</td><td>JLN. SACO RAGUNAN RT 02/08</td><td>RAGUNAN</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RS HEWAN</td><td>JLN. VILLA RAGUNAN N0 10 RT 11/04</td><td>PEJATEN BARAT</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. RAYA PASAR MINGGU NO 43 RT 08/07</td><td>PASAR MINGGU</td><td>PASAR MINGGU</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JLN.. P. ANTASARI</td><td>JLN. PANGERAN ANTASARI NO 24 A RT 02/06</td><td>CIPETE SELATAN</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TEROGONG</td><td>JLN. TEROGONG RAYA 3 RT 09/10</td><td>CILANDAK BARAT</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>GAHARU I</td><td>JLN. RS FATMAWATI RT 03/06</td><td>CILANDAK BARAT</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BLD</td><td>JLN. PANGERAN ANTASARI NO 19  RT 01/01</td><td>CILANDAK BARAT</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>JLN. AL BARKAH</td><td>JLN. AL BARKAH RT 04/06</td><td>CIPETE SELATAN</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>PONCOL</td><td>JLN. PONCOL NO 7 RT 02/05</td><td>GANDARIA SELATAN</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>800</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>BUMI KARANG INDAH</td><td>JLN. H NUDIN BLOK A7 NO 32A RT 13/03</td><td>LEBAK BULUS</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>GUNUNG BALONG</td><td>JLN. GUNUNG BALONG RAYA NO 27 A RT 08/04</td><td>LEBAK BULUS</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>3000</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS PERTANIAN</td><td>JLN. PUSKESMAS NO 17 RT 02/03</td><td>LEBAK BULUS</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>PANTI SOSIAL</td><td>JLN. H SYAIP NO 4 RT 10/02</td><td>GANDARIA SELATAN</td><td>CILANDAK</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO DHARMAJAYA</td><td>JLN. KEMANG UTARA IX NO 54 RT 03/04</td><td>BANGKA</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>180</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>DIPO KOBER</td><td>JLN. KEMANG SELATAN VIII NO 5A RT 07/02</td><td>BANGKA</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>150</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK SUHARTI</td><td>JLN. KAPTEN TENDEAN NO 9A  RT 01/05</td><td>KUNINGAN BARAT</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK PELA MAMPANG</td><td>JLN. BANGKA BARAT IV NO 32       RT 12/07</td><td>PELA MAMPANG</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK LEPIN</td><td>JLN. KAPTEN TENDEAN NO 6 RT 01/07</td><td>MAMPANG PRAPATAN</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK KRATINGDAENG</td><td>JLN. KAPTEN TENDEAN NO 6  RT 01/07</td><td>BANGKA</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. MAMPANG PRAPATAN RAYA NO 19</td><td>MAMPANG PRAPATAN</td><td>MAMPANG PRAPATAN</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (1)</td><td>JLN. KOMP SAPTA TARUNA NO 3 RT 12/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (2)</td><td>JLN. SAPTA TARUNA I NO 1 KOMPLEK PU RT 04/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>30</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (3)</td><td>JLN. R.A KARTINI NO 9 RT 09/10                     (KOMPLEK PU)</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (4)</td><td>JLN. SAPTA TARUNA V NO 5 RT 12/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (5)</td><td>SAPTA TARUNA 3 NO 3 RT 11/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (6)</td><td>SAPTA TARUNA 3 NO 5 RT 11/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (7)</td><td>JLN. SUSILO NO 21 RT 02/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>30</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (8)</td><td>JLN. SUSILO KOMPEK PERUMAHAN DEPARTEMEN PU BLOK B NO 10                    RT 02/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>30</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMPLEK PU (9)</td><td>JLN. SUSILO NO 110 RT 07/10</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>30</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KODIM (1)</td><td>JLN. CENDRAWASIH I BLOK E NO 50</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KODIM (2)</td><td>JLN. CENDRAWASIH I NO 38 RT 08 RW 08</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KODIM (3)</td><td>JLN. CENDRAWASIH I BLOK F NO 21 RT 06 RW 08</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS SESPIMA POLRI</td><td>KOMPLEK POLRI RW 02</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS JATI INDAH</td><td>JLN. JATI INDAH I NO 45 RT 02/01</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (1)</td><td>JLN. DARMA PUTRA RT 05/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (2)</td><td>JLN. DARMA PUTRA NO 20 RT 10/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (3)</td><td>JLN. DARMA PUTRA NO 20 RT 10/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (4)</td><td>JLN. DARMA PUTRA NO 40 RT 08/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (5)</td><td>JLN. DARMA PUTRA XI NO 25 RT 10/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (6)</td><td>JLN. DARMA PUTRA XI NO 25 RT 10/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (7)</td><td>JLN. DARMA PUTRA NO 22 RT 02/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (8)</td><td>JLN. DARMA PUTRA NO 22 RT 02/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOSTRAD (9)</td><td>JLN. DARMA PUTRA NO 22 RT 02/07</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS DIPO PONDOK PINANG</td><td>JLN. PONDOK PINANG 3 NO 30 A RT 02/02</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>557</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS KOMP TVRI</td><td>JLN. KOMP TVRI NO 20 RT 07/13</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>36</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 GROGOL UTARA</td><td>JLN. KEMANDORAN 2 NO 23 A RT 02/ 03</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>80</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 14 GROGOL UTARA</td><td>JLN. KEMANDORAN PLUIS NO 18 RT 12/ 06 (JLN. PULO KENANGA)</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 GROGOL SELATAN (SAUNG)</td><td>JLN. RW SIMPRUG 09 X NO 12 RT 05/09</td><td>GROGOL SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>12</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS BATA PUTIH</td><td>JLN. KRAMAT PURAL SENAYAN RT 02/02</td><td>GROGOL SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS DIPO PERMATA HIJAU II</td><td>JLN. KOMP PERMATA HIJAU 2 RT 10/12</td><td>GROGOL SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>225</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RAWA KERBAU</td><td>KOMP. PERKANTORAN RAWA KERBAU</td><td>CEMPAKA PUTIH TIMUR</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>420</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK CEMPAKA PUTIH BARAT II</td><td>JL. CEMPAKA PUTIH BARAT RAYA RT 01 RW 03</td><td>CEMPAKA PUTIH BARAT</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>18</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS MARDANI RAYA</td><td>JL. MARDANI RAYA RW 09</td><td>CEMPAKA PUTIH BARAT</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 04 CEMPAKA PUTIH TENGAH 33</td><td>JL. CEMPAKA PUTIH TENGAH 33 RW 04</td><td>CEMPAKA PUTIH TIMUR</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS CEMPAKA PUTIH TENGAH 31</td><td>JL. CEMPAKA PUTIH TENGAH 31 RW 07</td><td>CEMPAKA PUTIH TIMUR</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS CEMPAKA PUTIH TENGAH 17</td><td>JL. CEMPAKA PUTIH TENGAH 17 RT 06 RW 07</td><td>CEMPAKA PUTIH TIMUR</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS PERCETAKAN NEGARA IX RW 04</td><td>JL. PERCETAKAN NEGARA IX RW 04</td><td>RAWASARI</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS TAMAN PRAMUKA</td><td>JL. PERCETAKAN NEGARA 5 RW 01</td><td>RAWASARI</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS MAHKAMAH AGUNG</td><td>JL CEMPAKA PUTIH TIMUR 25</td><td>CEMPAKA PUTIH TIMUR</td><td>CEMPAKA PUTIH</td><td>JAKARTA PUSAT</td><td>TPS</td><td>42</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>ASRAMA POLISI</td><td>JL. CIDENG BARAT, RW 09</td><td>CIDENG</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>7</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DINAS TEKNIS</td><td>JL. BERANTAS, RW 01</td><td>CIDENG</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW.04 GAMBIR BUNTU</td><td>JL. GAMBIR BUNTU RW.04</td><td>GAMBIR</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 DAN RW 08</td><td>JL. BINATU RW.08</td><td>PETOJO UTARA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>TPS</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO KEBON KELAPA</td><td>JL. PINTU AIR 2 RT.03/RW.04</td><td>KEBON KELAPA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>320</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO TANJUNG KELOR</td><td>JL. TANJUNG SELOR RT 11 RW 6</td><td>CIDENG</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>600</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO TANAH ABANG 1</td><td>JL TANAH ABANG I RT 07 RW 08</td><td>PETOJO SELATAN</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>216</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>WALIKOTA PUSAT</td><td>JL.TANAH ABANG I</td><td>PETOJO SELATAN</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>9</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW.01 PEJAMBON</td><td>JL. PEJAMBON</td><td>GAMBIR</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS JL.BATU</td><td>JL. BATU RW.01</td><td>GAMBIR</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>GANG 09</td><td>JALAN SUKARJO WIRYOPRANOTO RW.01</td><td>KEBON KELAPA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td>4</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 03</td><td>JL. TANAH ABANG III,RW 03</td><td>PETOJO SELATAN</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>JL. CIDENG TIMUR RW.04</td><td>JL. CIDENG TIMUR 04</td><td>PETOJO UTARA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW.05 DAN RW.06</td><td>JL. CIDENG TIMUR</td><td>PETOJO UTARA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 12</td><td>JL. SETIA KAWAN ,RT 009,RW 012</td><td>DURI PULO</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW.01,02, DAN RW. JL. H. ALAYDRUS</td><td>JL. H. ALAYDRUS 03</td><td>PETOJO UTARA</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>GEDUNG KONI</td><td>JL. TANAH ABANG I, RW 07</td><td>PETOJO SELATAN</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>CIPUNAR</td><td>JL. CIPUNAR ,RT 003,RW 004</td><td>DURI PULO</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 07</td><td>JL. POS DURI, RW 07</td><td>DURI PULO</td><td>GAMBIR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS GEMBRONG</td><td>JL. RAWA SELATAN 1, KP. RAWA TENGAH RT 09 RW 04</td><td>GALUR</td><td>JOHAR BARU</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO JOHAR BARU</td><td>JL. JOHAR BARU UTARA I</td><td>JOHAR BARU</td><td>JOHAR BARU</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>225</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO KOTA PARIS</td><td>JL.TANAH TINGGI BARAT RT.001/RW.005</td><td>TANAH TINGGI</td><td>JOHAR BARU</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>180</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS PULO GUNDUL</td><td>JL.PULO GUNDUL</td><td>TANAH TINGGI</td><td>JOHAR BARU</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO KRAN</td><td>JL. KRAN</td><td>GUNUNG SAHARI SELATAN</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>180</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW 06 KEBON KOSONG</td><td>JL. KEMAYORAN GEMPOL RT 12 RW 06</td><td>KEBON KOSONG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>25</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RUSUN APRON RW 10</td><td>RUSUN APRON KEMAYORAN RW 10</td><td>KEBON KOSONG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>40</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 05 CEMPAKA BARU</td><td>JL. GRIYA AGUNG RW 05</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 06 CEMPAKA BARU</td><td>JL. CEMPAKA BARU TENGAH RT 11 RW 06</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 07 CEMPAKA BARU</td><td>JL. CEMPAKA BARU VIII RW 07</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS SUDIRO</td><td>JL. SUDIRO</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS SUPRAPTO</td><td>JL. LETJEN SUPRAPTO</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS PERUNGGU</td><td>JL. PERUNGGU</td><td>HARAPAN MULYA</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KALIBARU TIMUR</td><td>JL. KALIBARU TIMUR RW 09</td><td>UTAN PANJANG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS DAKOTA KEMAYORAN</td><td>JL. DAKOTA RAYA RW 10</td><td>KEBON KOSONG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>TPS 3R</td><td>1400</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS KEPU SELATAN</td><td>JL. KEPU SELATAN RW 02</td><td>KEMAYORAN</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS BENDA (JALI-JALI)</td><td>JL. BENDA TIMUR RW 02</td><td>KEMAYORAN</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KEPU TIMUR</td><td>JL. KEPU TIMUR RAYA RW 04</td><td>KEMAYORAN</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 02 TAMAN PIRUS</td><td>JL. MUTIARA RAYA RW 02</td><td>SUMUR BATU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KODAM RAYA</td><td>JL. KODAM RAYA RW 07</td><td>SUMUR BATU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS ARDALA</td><td>JL. H. UNG RW 02</td><td>UTAN PANJANG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>9</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS SENGON</td><td>JL. BENDUNGAN JAGO RW 03</td><td>UTAN PANJANG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS GEMPOL</td><td>JL. KEMAYORAN GEMPOL RW 04</td><td>KEBON KOSONG</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>TPS</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS SUPRAPTO (MALAM)</td><td>JL. LETJEN SUPRAPTO</td><td>HARAPAN MULYA</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS BUNGUR</td><td>JL. BUNGUR RAYA</td><td>GUNUNG SAHARI SELATAN</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS SUPRAPTO (PAGI)</td><td>JL. LETJEN SUPRAPTO (GALUR - CEMPAKA MAS)</td><td>CEMPAKA BARU</td><td>KEMAYORAN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 CIKINI</td><td>JL. RADEN SALEH II RW 03</td><td>CIKINI</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>TPS</td><td>25</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS MENTENG TENGGULUN</td><td>JL. MENTENG TENGGULUN</td><td>MENTENG</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>25</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS TAMAN KIMIA</td><td>JL. TAMAN KIMIA</td><td>PEGANGSAAN</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO MATRAMAN</td><td>JL. PEGANGSAAN DALAM 1 RT 01 RW 08</td><td>PEGANGSAAN</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>245</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS TIM</td><td>JALAN CIKINI RAYA RW 02</td><td>CIKINI</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 MENTENG TENGGULUN</td><td>JL. MENTENG TENGGULUN</td><td>MENTENG</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>15</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 01</td><td>JL. CIKINI KRAMAT RT 01 RW 01</td><td>PEGANGSAAN</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>15</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK CUT MUTIA</td><td>JL. CUT MUTIA RW 09</td><td>CIKINI</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>40</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK LATUHARHARY</td><td>JL. LATUHARHARY RW 07</td><td>MENTENG</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS ANYER</td><td>JL. ANYER RW 02</td><td>MENTENG</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK BLORA</td><td>JL. BLORA RW 06</td><td>MENTENG</td><td>MENTENG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO GUNUNG SAHARI UTARA</td><td>JL. GUNUNG SAHARI VII A</td><td>GUNUNG SAHARI UTARA</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>600</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS KARTINI TENGAH</td><td>JL. KARTINI RAYA RW 05</td><td>KARTINI</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KARTINI UJUNG</td><td>JL. KARTINI RAYA RW 09</td><td>KARTINI</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS JEMBATAN MERAH</td><td>JL. PANGERAN JAYAKARTA DALAM RW 10</td><td>MANGGA DUA SELATAN</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS MANGGA DUA DALAM</td><td>JL. MANGGA DUA DALAM RW 01</td><td>MANGGA DUA SELATAN</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>72</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS KARANG ANYAR</td><td>JL. KARANG ANYAR RAYA</td><td>KARANG ANYAR</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>144</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS MANGGA BESAR 13</td><td>JL. MANGGA BESAR 13 RT 01 RW 03</td><td>MANGGA DUA SELATAN</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>144</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS DJUANDA</td><td>JL. IR. H. DJUANDA</td><td>PASAR BARU</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>144</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS METRO</td><td>JL. KREKOT BUNDER RW 05</td><td>PASAR BARU</td><td>SAWAH BESAR</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK KENARI 2</td><td>JL. KENARI II RW 03</td><td>KENARI</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS GUNUNG AGUNG KWITANG</td><td>JL. INSPKESI RW 01 (PINGGIR KALI CILIWUNG)</td><td>KWITANG</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK SALEMBA TENGAH</td><td>JL. SALEMBA TENGAH RW 05</td><td>PASEBAN</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS PRAMUKA JATI</td><td>JL. PRAMUKA JATI RW 08</td><td>PASEBAN</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>TPS</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO TEMBOK BERLIN</td><td>JL. BUNGUR RAYA RW 03</td><td>BUNGUR</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>240</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW 07 KRAMAT SAWAH</td><td>JL. KRAMAT SAWAH RW 07</td><td>PASEBAN</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>TPS</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS PROTOKOL</td><td>JL. LETJEN SUPRAPTO - JL. KRAMAT BUNDER</td><td>KRAMAT</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS JALI-JALI</td><td>JL. INSPEKSI KRAMAT KEMBANG XI</td><td>KWITANG</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS KRAMAT 5</td><td>JL. KRAMAT 5 RT 02 RW 01</td><td>KENARI</td><td>SENEN</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td>25</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN BENHIL 2</td><td>JL. PENJERNIHAN 1 RW 08</td><td>BENDUNGAN HILIR</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN BENHIL 1</td><td>JL. PENJERNIHAN 1 RW 09</td><td>BENDUNGAN HILIR</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RSTA RW 10</td><td>JL. K.H. MAS MANSYUR RW 10</td><td>KEBON KACANG</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN PETAMBURAN</td><td>JL. PETAMBURAN RW 11</td><td>PETAMBURAN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>BAK BETON</td><td>280</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO PAM</td><td>JL. PAM BARU RAYA RT 015 RW 06</td><td>BENDUNGAN HILIR</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>144</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO PLN KEBON MELATI</td><td>JL. AWALUDIN IV RT 03 RW 017</td><td>KEBON MELATI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL. PETAMBURAN IV RT 014 RW 04</td><td>PETAMBURAN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>16</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 07</td><td>JL. KARET PASAR BARU BARAT 1 RT 14 RW 07</td><td>KARET TENGSIN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RSTA RW 11</td><td>JL. KEBON KACANG 9 RW 11</td><td>KEBON KACANG</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>25</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN KEBON KACANG RW 11</td><td>JL. KEBON KACANG XI RT 01 RW 01</td><td>KEBON KACANG</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL CONTAINER</td><td>60</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPSS RW 07</td><td>JL. ADMINISTRASI 1 RT 01 RW 07</td><td>BENDUNGAN HILIR</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KAMPUNG BALI 25</td><td>JL. KAMPUNG BALI XXV RW 07</td><td>KAMPUNG BALI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS TAMAN KB. SIRIH 1</td><td>JL. TAMAN KEBON SIRIH 1 RW 10</td><td>KAMPUNG BALI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS TAMAN KB. SIRIH 2</td><td>JL. TAMAN KEBON SIRIH 2 RW 10</td><td>KAMPUNG BALI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>6</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK ABDUL JALIL</td><td>JL. ABDUL JALIL RT 10 RW 9</td><td>KARET TENGSIN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>21</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS KARET BIVAK</td><td>JL. KH. MAS MANSYUR RW 06</td><td>KARET TENGSIN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK KB. KACANG 9</td><td>JL. KEBON KACANG 9</td><td>KEBON KACANG</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK KB. KACANG 8</td><td>JL. KEBON KACANG 8</td><td>KEBON KACANG</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS TALANG BETUTU</td><td>JL. TALANG BETUTU UJUNG</td><td>KEBON MELATI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>POOL GEROBAK</td><td>116</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW 01 PETAMBURAN</td><td>JL. JATI PINGGIR RT 005 RW 001</td><td>PETAMBURAN</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>DIPO</td><td>63</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS K.H. MAS MANSYUR - JATI BUNDAR</td><td>JL. K.H. MAS MANSYUR - JATI BUNDAR</td><td>KEBON MELATI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>LINTAS</td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KASDAM</td><td>JL. LONTAR ATAS RT 09 RW 12</td><td>KEBON MELATI</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td>TPS</td><td>6</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW.05</td><td>JLN.N. SAGU RAYA RT 10 RW 05</td><td>JAGAKARSA</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS KAMPUNG KANDANG</td><td>JLN.N. M KAHFI 1 GG TOHIR 2 RT 03 RW 04</td><td>JAGAKARSA</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>500</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS MANGGIS</td><td>JLN.N. MANGGIS DALAM 2 RT 01/01</td><td>JAGAKARSA</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BSSM RW.05</td><td>JLN.N. SADAR RAYA NO 39 RT 01/05</td><td>CIGANJUR</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>800</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS ANTAM</td><td>JLN.N. TANJUNG BARAT LAMA NO 139               RT 10/04</td><td>TANJUNG BARAT</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td>30</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LPS RW.04</td><td>JLN.N. RAYA LENTENG AGUNG NO 8                 RT 03/10</td><td>SRENGSENG SAWAH</td><td>JAGAKARSA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS TOJI</td><td>JLN. MASJID AL-HUDA NO 29 RT 10/03</td><td>KEBAYORAN LAMA UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 CIPULIR</td><td>JLN. CILEDUG RAYA</td><td>CIPULIR</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 13 GROGOL UTARA</td><td>JLN. KUMALA</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 GROGOL UTARA</td><td>JLN. PATAL SENAYAN</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 GROGOL SELATAN</td><td>JLN. SIMPRUG GOLF II</td><td>GROGOL SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 12 GROGOL UTARA</td><td>JLN. PERMATA HIJAU BOULEVARD BARAT</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 11 GROGOL UTARA</td><td>JLN. KEMANDORAN VIIIA</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>120</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 GROGOL UTARA</td><td>JLN. LOGAM</td><td>GROGOL UTARA</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 PONDOK PINANG</td><td>JLN. H. SAIKIN</td><td>PONDOK PINANG</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>36</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS SEHA</td><td>JLN. KEBAYORAN LAMA</td><td>GROGOL SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. SULTAN ISKANDAR MUDA</td><td>KEBAYORAN LAMA SELATAN</td><td>KEBAYORAN LAMA</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO GANDARIA UTARA</td><td>JLN. H JAENUDIN DALAM NO 61 RT 02/14</td><td>GANDARIA UTARA</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>240</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>DIPO KRAMAT PELA</td><td>JLN. KRAMAT PELA RT 05/04</td><td>KRAMAT PELA</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>240</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RAWA BARAT</td><td>JLN. KRAMAT PELA RT 05/04</td><td>RAWA BARAT</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>500</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 03</td><td>JLN. PULO RAYA V NO 19 RT 05/01</td><td>PETOGOGAN</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK JLN..DAMAI</td><td>JLN. DAMAI RAYA NO 97 RT 09/08</td><td>CIPETE UTARA</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK JLN..DEMPO</td><td>JLN. DAMAI RAYA NO 97 RT 09/08</td><td>GUNUNG</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 05</td><td>JLN. SINABUNG I RT 05/05</td><td>GUNUNG</td><td>KEBAYORAN BARU</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO DPR</td><td>JLN. DPR BLOK E NO 5 RT 12/05</td><td>RAWAJATI</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>364</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TRILOKA</td><td>JLN. TRILOKA VI BLOK K NO I RT 03/04</td><td>PANCORAN</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO KBI</td><td>JLN. RAJAWATI TIMUR II NO 69 RT 04/06</td><td>RAWAJATI</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>KAMPUNG ARGO WISATA RAJAWATI TIGA</td><td>JLN. ZENI AD NO 52 RT 05/03</td><td>RAWAJATI</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>TPS 3R</td><td>450</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK WISMA YAKIB</td><td>JLN. WARUNG JATI BARAT NO 105 RT 11/05</td><td>KALIBATA</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK IMIGRASI</td><td>JLN. WARUNG JATI BARAT NO 8-47 RT 04/05</td><td>KALIBATA</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK KOBER</td><td>JLN. WARUNG JATI BARAT NO 20 RT 01/02</td><td>KALIBATA</td><td>PANCORAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO SENTRAL TEBET BARAT</td><td>JLN. TEBET BARAT RAYA NO 56 RT 14/14</td><td>TEBET BARAT</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>1800</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO LAPANGAN ROS</td><td>JLN. LAPANGAN ROS UTARA NO 6 RT 02/06</td><td>BUKIT DURI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>320</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO CILIWUNG</td><td>JLN. ASEM BARIS RAYA RT 11/13</td><td>KEBON BARU</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>250</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO MANGGARAI</td><td>JLN. MANGGARAI UTARA VI NO 9 RT 09/01</td><td>MANGGARAI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>200</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK ABDULLAH SYAFEI</td><td>JLN. KAMPUNG MELAYU BESAR RW 09</td><td>BUKIT DURI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 12</td><td>JLN. BUKIT DURI NO 71 RT 06/12</td><td>BUKIT DURI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 04 KELURAHAN MANGGARAI</td><td>JLN. MANGGARAI UTARA 2 NO 17-18</td><td>MANGGARAI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 05 KELURAHAN MANGGARAI</td><td>JLN. DR SAHARJO NO 17 RT 08/05</td><td>MANGGARAI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 08 KELURAHAN MANGGARAI</td><td>JLN. DR SAHARJO NO 45 RT 11/05</td><td>MANGGARAI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 KEBON BARU</td><td>JLN. KP MELAYU BESAR 2 NO 255 RT 01/01</td><td>KEBON BARU</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. KH ABDULLAH SYAFEI NO 21 RT 05/06</td><td>BUKIT DURI</td><td>TEBET</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW.05 KELAPA GADING</td><td>JL. INSPEKSI KALI SUNTER RW 05</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>1600</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 007 KELAPA GADING BARAT</td><td>JLN. MAENGKET</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 006</td><td>JLN. JANUR ELOK 2</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 002</td><td>JLN. KELAPA GADING PUTIH RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>18</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 007</td><td>JLN. RAYA BUKIT GADING VILLA</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 008</td><td>JLN. TARIAN RAYA BARAT</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>9</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 010</td><td>JLN. JINGGA RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 011</td><td>JLN. GADING ELOK UTARA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>18</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 012</td><td>JLN. BOULEVARD RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 015</td><td>JLN. PELEPAH RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 016</td><td>JLN. PELEPAH KUNING 3</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 018</td><td>JLN. BOULEVARD RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>6</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 009</td><td>JLN. KELAPA CANGKIR RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>18</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 008</td><td>JLN. GADING KIRANA UTARA</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>90</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 011</td><td>JLN. NUR ELOK</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>98</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 010 KELAPA GADING BARAT</td><td>JL. TABAH I UJUNG RW 10</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>130</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 012</td><td>JLN. NUR ASRI</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 016</td><td>JLN. BUKIT GADING RAYA</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 017</td><td>JLN. HIBRIDA</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>BAK BETON RAWA SENGON RW 022</td><td>JLN. RAWA SENGON</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>19.2</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 002</td><td>JLN. BOULEVARD TIMUR UJUNG</td><td>PEGANGSAAN DUA</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 018</td><td>JLN. GADING ASRI</td><td>PEGANGSAAN DUA</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 022</td><td>KOMPLEK GADING ARCADIA</td><td>PEGANGSAAN DUA</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>TPS</td><td>70</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 017</td><td>JLN. NIAS 9</td><td>PEGANGSAAN DUA</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>50</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 01</td><td>JLN. ARTERI</td><td>PEGANGSAAN DUA</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 019</td><td>JLN. KELAPA PUYUH</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 01</td><td>JLN. PELEPAH RAYA</td><td>KELAPA GADING TIMUR</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW.002 RAWA BADAK SELATAN</td><td>JLN. PLUMPANG SEMPER</td><td>RAWA BADAK SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>JALAN BHAYANGKARA RW.001</td><td>JLN. BHAYANGKARA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LINTAS KRAMAT JAYA</td><td>JLN. KRAMAT JAYA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS RT 01/RW 013</td><td>JLN. PLUMPANG SEMPER</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>1</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LINTAS RT 02/RW 013</td><td>JLN. PLUMPANG SEMPER</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>1</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 BHAYANGKARA</td><td>JLN. BHAYANGKARA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>12.5</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>LINTAS KRAMAT JAYA RW 017</td><td>JLN. KRAMAT JAYA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>BAK BETON GANG 8 RW 19</td><td>JLN. KRAMAT JAYA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>4</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS SIMPANG 5 RW 09</td><td>JLN. BUNDERAN SEMPER</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 02</td><td>JLN. TUGU PERMAI PERUMAHAN ANCOL</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 014 SINDANG TERUSAN</td><td>JLN. SINDANG TERUSAN</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER MANUNGGAL</td><td>JL MANUNGGAL</td><td>KELAPA DUA WETAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK BETON KOMPLEK HANKAM</td><td>JL.KOMPLEK HANKAM</td><td>KELAPA DUA WETAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER SMA 99</td><td>JL. BULAK RINGIN RW 03</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 02</td><td>JL. CIBUBUR RW 02</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 06</td><td>JL LAPANGAN TEMBAK RW 06</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>DIPO BUKIT PERMAI</td><td>JALAN RAYA JAMBORE</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>299</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TRANSITO KOMPLEK KODAM</td><td>JL KAMPUNG LAGA 4 BLOK E</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 08</td><td>JL RAYA JAMBORE</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK PANTI JOMPO BAKTI MANDIRI</td><td>JL KARYA BAKTI</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>CONTAINER KOMPLEK DPRD</td><td>JL TUMIS KUCING 2</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK GOR CIBUBUR</td><td>JL. RAYA JAMBORE</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW !4</td><td>JL. TELKOM RW 14</td><td>CIBUBUR</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK KOMPLEK POLRI</td><td>JL KOMPLEK POLRI, JL FORMOS</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 04</td><td>JL. AL HUDA</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>5</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 04</td><td>JL CIPINANG</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK</td><td>JL ASEM RW 06</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 03</td><td>GG HANAFI, JL RAYA CENTEX</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>TPS</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 03</td><td>GG KOBER, JL RAYA CENTEX</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>5</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>DIPO RW 09 CIRACAS</td><td>JL. PULE RW.09 ASRAMA DLH</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>800</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS 3R RW 09</td><td>JL ASRAMA LINGKUNGAN HIDUP</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>TPS 3R</td><td>50</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 01</td><td>JL. PONCOL RW 01</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK RUSUN PEMADAM</td><td>JL RAYA PONCOL</td><td>CIRACAS</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>BAK MADRASAH</td><td>JL MADRASAH RW 05</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK BUAH</td><td>JL. SUPRIYADI RW 05</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK TOL</td><td>JL. SUPRIYADI RW 05</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK JPO</td><td>JL. SUPRIYADI RW 05</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK MADURA</td><td>JL. SUPRIYADI RW 05</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK POM BENSIN</td><td>JL TB SIMATUPANG RW 03</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK RT</td><td>JL , SUPRIYADI RW 02</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW 02</td><td>JL MAKMUR ATAS</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW 02</td><td>JL MAKMUR BAWAH</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>DIPO SUSUKAN</td><td>JL H. BAPING RW 06</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>253</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS  KUBURAN CINA SENTIONG</td><td>JL. TANAH MERDEKA</td><td>SUSUKAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>LINTAS JL RAYA BOGOR</td><td>JL RAYA BOGOR</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK POLSEK CIRACAS</td><td>JL RAYA BOGOR</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 01</td><td>JL. H JENIH</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>TPS</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 02</td><td>JL GUDANG AIR</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>4</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK KAVLING 3</td><td>JL LANING</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK KAVLING 2</td><td>JL SD INPRES</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK KAVLING 1</td><td>JL DELIMA</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK KAMPUS UHAMKA</td><td>JL TANAH MERDEKA</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS GEBRAS</td><td>JL SUPRIYADI</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>TPS</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK PISANG</td><td>JL SUPRIYADI</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DITKUM TNI AD</td><td>JL SUPRIYADI</td><td>RAMBUTAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO H NAMAN RW 02</td><td>JL. H. NAMANRT.02/RW.02</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>612</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 08 CURUG</td><td>JL RAYA KALIMALANG RW 08</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS BILLYMOON RW 10</td><td>JL JANUR RT.09/RW.10</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 ABADI</td><td>JL ABADI KOMPLEK ABADI RW 06</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS PPSU RW 11</td><td>JL LAUT BANDA</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td>500</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 17</td><td>JL LAUT SAMUDRA RT 06 RW 17</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK JL RAYA KALIMALANG RW 12</td><td>JL RAYA KALIMALANG</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>42</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW.10 MALAKA SARI</td><td>JALAN PERUMNAS RAYA RT.04/RW.10</td><td>MALAKA SARI</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>140</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO TIPAR RW 04 PONDOK KELAPA</td><td>JL. RAYA TIPAR  RT.09 RW.04</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 11</td><td>JL DERMAGA RAYA</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>60</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW 09 KEL MALAKA SELATAN</td><td>JL. MALAKA SELATAN RAYA RT.06 RW.0</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>450</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 04 DUREN SAWIT</td><td>JL LINGKAR DUREN SAWIT RW 04</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>60</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS H AMMAR RW 08</td><td>JL H AMMAR RT 006 RW 008</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>6</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK PERUMAHAN PERMATA TIMUR RW 08</td><td>PERUM PERMATA TIMUR</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO MANGGAR RW.011</td><td>JL. MANGGAR RT.06/RW.11</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO MARINIR  RW 013</td><td>JL. KAV. MARINIR RT.03/RW.13</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>;PONDOK KELAPA ;DUREN SAWIT;JAKARTA TIMUR;DIPO;400;PEMERINTAH</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LPS RW 013 KLENDER</td><td>JL  I GUSTI NGURAH RAI RW 013</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS PERTANIAN RW 02</td><td>JL I GUSTI NGURAH RAI</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>70</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 09</td><td>JL WIJAYA KUSUMA RT 12 RW 09</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS STASIUN PENGENDALI SAMPAH RW. 001 (SPS 01)</td><td>JLN. SWADAYA RAYA RT.06 RW.01</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 09</td><td>JL BAMBU ASRI RW 09</td><td>PONDOK BAMBU</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 06 BKT</td><td>JL BULUH PERINDU</td><td>PONDOK BAMBU</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK KONTEINER  RW 05</td><td>JL KOMPLEK BEA CUKAI RW 05</td><td>PONDOK BAMBU</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW 10 KLENDER</td><td>JL. KAMPUNG SUMUR RT.03/RW.10</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>253</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 014 KEL KLENDER</td><td>JL TAMAN BUARAN INDAH RW 014</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>35</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 03</td><td>JL RAWADAS/ TPU MALAKA</td><td>PONDOK KOPI</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL PONDOK KOPI UJUNG</td><td>PONDOK KOPI</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>56</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 11</td><td>JL BKT UJUNG</td><td>PONDOK KOPI</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>60</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 06</td><td>JL PAHLAWAN REVOLUSI</td><td>KLENDER</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 16</td><td>JL LAUT SAMUDRA RT 06 RW 16</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO PTB RW 08</td><td>JL LINGKAR PTB RW 08</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS WIKA RW 01</td><td>JL I GUSTI NGURAH RAI</td><td>MALAKAJAYA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>48</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS LINTAS PPSU</td><td>JL TUMPI</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td>35</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 09</td><td>JL IGUSTI NGURAI RAI</td><td>PONDOK KOPI</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>32</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 001 PENGAYOM</td><td>JLN. PLUMPANG SEMPER</td><td>TUGU SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK EKS BCA</td><td>JLN. PLUMPANG SEMPER</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 13 SINDANG TERUSAN</td><td>JLN. SINDANG TERUSAN</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 012 SINDANG TERUSAN</td><td>JLN. SINDANG TERUSAN</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>3</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KORAMIL RW 02</td><td>JLN. KORAMIL</td><td>RAWA BADAK SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 09</td><td>JLN. MELATI RAYA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS RW 15</td><td>JL. WALANG SARI</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 12</td><td>JLN. MALANG BARU</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 09</td><td>JLN. MEKAR TUGU</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 13</td><td>JLN. MOH. DARPI</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 07</td><td>JLN. KELAPA MUDA</td><td>TUGU UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 12</td><td>JLN. MUNCANG</td><td>LAGOA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 & RW 04</td><td>JLN. INSPEKSI KALI KRESEK</td><td>LAGOA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>14</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK JALAN B</td><td>JLN. RAYA CILINCING</td><td>LAGOA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>21</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 TUGU SELATAN</td><td>RAWA SENSEN</td><td>TUGU SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS BAK POLRES RW 12</td><td>JLN. YOS SUDARSO</td><td>RAWA BADAK SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS ELNUSA</td><td>JLN. PLUMPANG SEMPER</td><td>RAWA BADAK SELATAN</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 09 RW 09</td><td>JLN. PLUMPANG SEMPER</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS PASAR ULAR RW 05</td><td>JLN. INSPEKSI KALI SUNTER</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 014</td><td>JLN. BERDIKARI</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>1</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK BETON 4 RW 14</td><td>JLN. BERDIKARI</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK BETON 3 RW 14</td><td>JLN. BERDIKARI</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON 2 RW 14</td><td>JLN. BERDIKARI</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON 1 RW 14</td><td>JLN. BERDIKARI</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RBU RAMAH LINGKUNGAN RW 09</td><td>JLN. INSPEKSI KAI SUNTER</td><td>RAWA BADAK UTARA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>DIPO</td><td>1300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS LIAR JLN. JAMPEA JEMBATAN POCIS</td><td>JLN. JAMPEA</td><td>KOJA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS JLN. DELI RW 09</td><td>JLN. DELI</td><td>KOJA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>3</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS LIAR TAMAN JAMPEA</td><td>JLN. JAMPEA</td><td>KOJA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS LIAR JLN. SULAWESI</td><td>JLN. SULAWESI</td><td>KOJA</td><td>KOJA</td><td>JAKARTA UTARA</td><td>TPS</td><td>4.5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KALI BANGLIO RT 06 RW 04 CILINCING</td><td>JLN. KALI BANGLIO</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>5.5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KALI BANGLIO RT 08</td><td>JLN. KALI BANGLIO</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>4.8</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS AL ALAM RT 05 RW 04</td><td>JLN. REKREASI</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>16.32</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS BULAK CABE RW 09</td><td>JLN. CAKUNG DRAIN</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>2.5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RAWA INDAH RW 10 SUKAPURA</td><td>JLN PEGANGSAAN DUA NO. 93 RT 5/RW 2</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>2.5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 01 SEMPER BARAT</td><td>JLN KOMPLEK PEMADAM KEBAKARAN NO 6 RT 12/RW 4</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>1.4</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KOPI JENGGOT RW 01</td><td>GG H. BONAR NO 11 RT 11/RW 1</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>25</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 05 KRAMAT MENGKOK</td><td>JLN SUKAPURA NO 41 RT 1/RW 1</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>24</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>DIPO RW 15 SEMPER BARAT</td><td>JLN RAYA CILINCING NO 122 RT 1 / RW 11</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>687.5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW 03 SEMPER BARAT</td><td>JLN RUSUN KEBERSIHAN NO 29 RT 2/RW 1</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>400</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>DIPO RW 05 SEMPER TIMUR</td><td>JLN ELANG NO 17 RT 1/RW 3</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>158</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW  07 SUKAPURA</td><td>JLN MELATI II NO 22 RT 11/RW 9</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>400</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 10 RUSUN CILINCING</td><td>JL. INSPEKSI CAKUNG DRAIN RW 10</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>309.62</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RT 07/RW 08 CILINCING</td><td>JLN. KESATRIAN</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS POOL GEROBAK KALI BANGLIO, KALIBARU</td><td>JLN. KALIBARU</td><td>KALIBARU</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>25</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 007</td><td>JLN. KESATRIAN</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>6</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 03 GREEN GARDEN</td><td>JLN. PERUMAHAN GREEN GARDEN RW 03</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>150</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 02 SUKAPURA</td><td>KP SUKAPURA GG LEMBANG NO. 57 RT 10/RW 01</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>28</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS TPU BUNI RW 03</td><td>JLN TIPAR CAKUNG NO 36 RT 9/RW 3</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW. 02 YON AIR</td><td>JLN SENA RAYA NO 27 RT 15/RW 02</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>14</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 09 SUKAPURA</td><td>JLN KOALA LESTARI 5 NO 16 RT 11/RW 1</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>165</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 12 SUKAPURA</td><td>JLN GADING GRIYA LESTARI RAYA NO 7 RT 11/RW 1</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>62</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 SUNGAI BEGOG</td><td>JLN PERALIHAN NO 2 RT 6/RW 3</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>35</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 BAK KUNEN</td><td>JLN AKSES MARUNDA NO 17 RT 10/RW 03</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>14</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 AIRUD</td><td>JLN ARJUNA 7 NO 12 RT 5/RW 4</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>42</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS BAK TUGU RW 10</td><td>JLN CAKUNG CILINCING RAYA NO 16 RT 11/RW 6</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>21</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 BUDI DHARMA</td><td>JLN AKSES MARUNDA NO 21 RT 1/RW 3</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>230</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW. 01 SEMPER BARAT</td><td>JLN KOMPLEK PEMADAM KEBAKARAN NO 9 RT 12/RW 4</td><td>SEMPER BARAT</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>1.75</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN MARUNDA</td><td>JLN. RUSUN MARUNDA</td><td>MARUNDA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN MARUNDA RW 10</td><td>JLN. RUSUN MARUNDA</td><td>MARUNDA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>25.37</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS CABANG 4 RW 03</td><td>JLN. MARUNDA BARU CABANG 4</td><td>MARUNDA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>164</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 ROROTAN</td><td>JLN. ROROTAN 9</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>20</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 04 ROROTAN</td><td>JLN. CAKUNG INDUSTRI SELATAN 1</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>35</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 10 ROROTAN</td><td>JLN. ROROTAN 3</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>68</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 12 ROROTAN</td><td>JLN. ROROTAN</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>80</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 ROROTAN</td><td>JLN. ROROTAN 9</td><td>ROROTAN</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>TPS</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>DIPO RW 08 KALIBARU</td><td>JLN. KALIBARU BARAT RW 08</td><td>KALIBARU</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>DIPO</td><td>300</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 02, RW 03</td><td>JLN. KALIBARU TIMUR 2</td><td>KALIBARU</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>70</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 13 KP. KERANG HIJAU</td><td>JLN KALIBARU TIMUR VI NO.29 RT 4/RW 3</td><td>KALIBARU</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>21</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 14</td><td>JLN. KALIBARU TIMUR 2</td><td>KALIBARU</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>24</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 11/ RW 04</td><td>JLN. KALIBANGLIO</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>62,208</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 16/ RW 03</td><td>JLN. KALIBANGLIO</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>8.4</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 PELINDO</td><td>JLN. AKSES MARUNDA</td><td>CILINCING</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>18,105</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RAWA INDAH</td><td>JLN. RAWA INDAH</td><td>SUKAPURA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>2.5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RAWA INDAH RT 03</td><td>JLN. RAWA INDAH</td><td>SUKAPURA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>2.5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS PERUMAHAN RW 08 BEA CUKAI</td><td>JLN. CENDRAWASIH</td><td>SUKAPURA</td><td>CILINCING</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RUMAH BETAWI</td><td>JL.NANGKA GEROWONG</td><td>KELAPA DUA WETAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 08</td><td>JL.RAYA KELAPA DUA WETAN</td><td>KELAPA DUA WETAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER YAYASAN PKP</td><td>JL. RAYA PKP</td><td>KELAPA DUA WETAN</td><td>CIRACAS</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW. 04 KUNINGAN TIMUR</td><td>JLN.. CASABLANCA RT 03/ RW 04</td><td>KUNINGAN TIMUR</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 04 KARET SEMANGGI</td><td>JLN. GARNISUN I RT 05/04</td><td>KARET SEMANGGI</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS MENTENG ATAS</td><td>JLN. MENTENG ATAS BARAT RT 17</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>(LOKBIN PASAR MURIA NO 38)"</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>900</td><td>PEMERINTAH</td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JALAN KAWI</td><td>JLN. GUNTUR NO 61 RT 13/05</td><td>GUNTUR</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 02 SETIA BUDI</td><td>JLN. TAMAN SETIA BUDI II NO 56 RT 05/02</td><td>SETIA BUDI</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 05 KARET</td><td>JLN. KARET KARYA RT 05/05</td><td>KARET</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 KUNINGAN TIMUR</td><td>JLN. MEGA KUNINGAN BARAT IX BLOK KEMBANG NO 28 RT 02/01</td><td>KUNINGAN TIMUR</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 03 KUNINGAN TIMUR</td><td>JLN. MEGA KUNINGAN BARAT III NO 09            RT 01/02</td><td>KUNINGAN TIMUR</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 01 PASAR MANGGIS</td><td>JLN. KOTA GEDANG RT 01/01</td><td>PASAR MANGGIS</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 08 PASAR MANGGIS</td><td>JLN. MINANGKABAU NO 3A RT 01/08</td><td>PASAR MANGGIS</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. DENPASAR RAYA NO 109 RT 16/04</td><td>KARET</td><td>SETIABUDI</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 002 BINTARO</td><td>JLN. DEPOSOS VIII NO 1 RT 01/02</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 008 BINTARO</td><td>JLN. BINTARO UTAMA I RW 08</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 010 BINTARO</td><td>JLN. MASJID AL MUFLIHUN RT 09/10</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 12 BINTARO</td><td>JLN. MADRASAH NO 55 B RT 01/12</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 004 IKPN</td><td>JLN. IKPI BINTARO BLOK F NO 21 RT 04/04</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>RW 003 DEPLU</td><td>JLN. DEPLU NO 19 RT 02/03</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 011 RENGAS</td><td>JLN. RENGAS RAYA NO 10 RT 05/11</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>TPS 3R</td><td>1000</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO KKN</td><td>JLN. KKN NO 93 RT 07/06</td><td>PETUKANGAN SELATAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>DIPO</td><td>207</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 008 PETUKANGAN SELATAN</td><td>JLN. GRIYA II NO 12 RT 08/08</td><td>PETUKANGAN SELATAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RT 009/002 PESANGGRAHAN</td><td>JLN. BINTARO PUSPITA RAYA</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 08</td><td>JLN. BINTARO PUSPITA</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 003 H. GARI</td><td>JLN. H. GARI</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>BAK BETON</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 002 PESANGGRAHAN</td><td>JLN. KESADARAN</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>40</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 001 PESANGGRAHAN</td><td>JLN. ULUJAMI RAYA</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 007 DEPEN</td><td>JLN. GARUDA</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 05 KOMP. KODAM</td><td>JLN. PESANGGRAHAN RAYA</td><td>PESANGGRAHAN</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 006 KOMP. POLRI</td><td>JLN. ULUJAMI RAYA</td><td>ULUJAMI</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL CONTAINER</td><td>20</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 007 ULUJAMI</td><td>JLN. INSPEKSI</td><td>ULUJAMI</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 004 ULUJAMI</td><td>JLN. KELURAHAN</td><td>ULUJAMI</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 003 ULUJAMI</td><td>JLN. H. ROHIMIN</td><td>ULUJAMI</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 007 PETUKANGAN UTARA</td><td>JLN. TAMAN ALFA</td><td>PETUKANGAN UTARA</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>80</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 010 PETUKANGAN UTARA</td><td>JLN. MASJID DARUL FALAH</td><td>PETUKANGAN UTARA</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 001 PETUKANGAN UTARA</td><td>JLN. AMD</td><td>PETUKANGAN UTARA</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>LINTAS TRUCK</td><td>JLN. RC VETERAN RAYA NO 4 RT 06/03</td><td>BINTARO</td><td>PESANGGRAHAN</td><td>JAKARTA SELATAN</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LPS RW 06</td><td>JLN. TAMAN PLUIT KENCANA DALAM</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>TPS</td><td>21</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 08</td><td>JLN. PLUIT KERONG BARAT</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 15</td><td>JLN. PLUIT KERONG SELATAN</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>84</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>LINTAS DOOR TO DOOR RW 07</td><td>JLN. PLUIT BARAT</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS DOOR TO DOOR RW 09</td><td>JLN. PLUIT TIMUR RAYA</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS MUARA ANGKE</td><td>JLN. DERMAGA UJUNG</td><td>PLUIT</td><td>PENJARINGAN</td><td>JAKARTA UTARA</td><td>TPS</td><td>420</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 13</td><td>JLN. BUDI MULYA NO 7</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td>40</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 12</td><td>JLN. PADEMANGAN 8</td><td>PADEMANGAN TIMUR</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>14</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 11</td><td>JLN. BUDI MULYA</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>24</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 09</td><td>JLN. AMPERA BESAR</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>49</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 03</td><td>JLN. HIDUP BARU</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 14</td><td>JLN. PADEMANGAN</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW 01</td><td>JLN. PADEMANGAN NO. 70</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 12</td><td>JLN. BUDI MULYA</td><td>PADEMANGAN BARAT</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>21</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>DIPO ANCOL</td><td>JLN. ANCOL BARAT 8</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>DIPO</td><td>300</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 02, 03</td><td>JLN. PARANGTRITIS RAYA</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>6</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK BETON KEMBAR RW 02</td><td>JLN. LODAN</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>18</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 04</td><td>JLN. TRANSMIGRASI</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>TPS</td><td>1050</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON & DUSTBIN</td><td>JLN ANCOL BARAT I NO. 1 RT 11/RW 2</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 01</td><td>JLN. ANCOL BARAT</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 08</td><td>JLN. ANCOL BARAT</td><td>ANCOL</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>24</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW.10 PADEMANGAN TIMUR</td><td>JL. PADEMANGAN 9. RT 02  RW.010</td><td>PADEMANGAN TIMUR</td><td>PADEMANGAN</td><td>JAKARTA UTARA</td><td>DIPO</td><td>396</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS SOLO BONE</td><td>JLN. SUNTER AGUNG RT 12/RW 15</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO RW 13 SUNTER AGUNG</td><td>JLN. SUNTER KARYA RT 002/RW 013</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>DIPO</td><td>200</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO SUNTER JAYA</td><td>JLN. SUNTER JAYA I, RT 023/RW 001</td><td>SUNTER JAYA</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>DIPO</td><td>375</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS BUGIS</td><td>JLN. BUGIS, RT 017/ RW 02</td><td>KEBON BAWANG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS WADUK CINCIN</td><td>JALAN BISMA BLOK E RT 001/ RW 007</td><td>PAPANGGO</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>DIPO</td><td>1720</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>GELANGGANG REMAJA JAKARTA UTARA</td><td>JLN. YOS SUDARSO</td><td>KEBUN BAWANG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 SUNTER AGUNG</td><td>RW 08 SUNTER AGUNG</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>150</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS SPA SUNTER</td><td>JLN. SUNTER AGUNG, RT 015/RW 012</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>200</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS TERMINAL TG. PRIOK</td><td>JLN. R.E. MARTADINATA</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KEDONDONG</td><td>JLN. KEDONDONG RAYA RT 013</td><td>SUNTER RAYA</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>LINTAS</td><td>10</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS HONDA RW.09</td><td>JALAN SUNTER KEMAYORAN RW.09</td><td>SUNTER RAYA</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW  20 SUNTER AGUNG</td><td>JLN. GRIA MULIA</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 10 SUNTER AGUNG</td><td>JLN. AGUNG RAYA I,BOK A3, RT 12/RW 10</td><td>SUNTER AGUNG</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KENCANA</td><td>JLN. SUNGAI BAMBU RW 008</td><td>SUNGAI BAMBU</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>TPS</td><td>280</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS A9</td><td>JLN. BAHARI RW013</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS A2 BAHARI</td><td>JLN. SAMUDERA BAHARI</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>JAKARTA UTARA</td><td>POOL CONTAINER</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 004</td><td>JLN. INSPEKSI KALI SUNTER</td><td>KELAPA GADING BARAT</td><td>KELAPA GADING</td><td>JAKARTA UTARA</td><td>BAK BETON</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 016 JAGAL CIPINANG</td><td>JL RAYA BEKASI TIMUR RW 16</td><td>CIPINANG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>24</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 001 RUSUN JATINEGARA KAUM</td><td>JL BEKASI TIMUR RAYA RW 01</td><td>JATINERGARA KAUM</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW. 003 TARUNA PULOGADUNG</td><td>JL TARUNA</td><td>PULOGADUNG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BOMBAY</td><td>JL PULOMAS SELATAN</td><td>KAYU PUTIH</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW 06</td><td>JL PERUMAHAN GOLF</td><td>PISANGAN TIMUR</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>BAK BETON RW 06</td><td>JLN ACHMAD YANI</td><td>PISANGAN LAMA</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO INDOR</td><td>JL. PULO MAS UTARA</td><td>KAYU PUTIH</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>400</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>RW 08</td><td>JL CIPINANG LONTAR RT 10 RW 08</td><td>CIPINANG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 14</td><td>JL RAYA CIPINANG BAWAH</td><td>CIPINANG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>TPS</td><td>20</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 12</td><td>JL RAWAMANGUN MUKA BAAT</td><td>RAWAMANGUN</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 07 JATINEGARA KAUM</td><td>JL PEMUDA RW 07</td><td>JATINEGARA KAUM</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 06</td><td>JL BEKASI TIMUR RT 05 RW 06</td><td>JATINEGARA KAUM</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>18</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 07 RAWAMANGUN</td><td>JL PEMUDA RT 02 RW 07</td><td>RAWAMANGUN</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS</td><td>JL PULO ASEM UTARA, TIMUR, SELATAN RW 001, 002</td><td>JATI</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 04</td><td>PERUM PERTAMINA</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER PERUM TAMAN MODERN</td><td>PERUM TAMAN MODERN</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 01</td><td>JL RAYA BEKASI</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER DISHUB</td><td>JL. RAYA BEKASI</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 02,03,08</td><td>JL. BKT</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK PERUM METLAND</td><td>PERUM METLAND</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 05</td><td>JL. RAWA KUNING</td><td>UJUNG MENTENG</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>5</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>3</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>3</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 003</td><td>JL SISI TOL</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>3</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW04</td><td>JL CACING</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW07</td><td>JL INSPEKSI KALIMALANG</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PPD RW.07</td><td>JL.INSPEKSI POOL PPD</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>220</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW08</td><td>SEBRANG RUSUN ALBO</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN ALBO</td><td>RUSUN ALBO</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 09</td><td>JL INSPEKSI CAKUNG DRAIN</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN TIPAR</td><td>RUSUN TIPAR</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN KM2</td><td>RUSUN KM2</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK PALAD</td><td>JL RAYA BEKASI KOMP PALAD</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK PALAD</td><td>JL RAYA BEKASI KOMP PALAD</td><td>CAKUNG BARAT</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW01,02,03</td><td>JL. RAWA BALI 1 RW 01</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT14</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK INDOMARET</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT006</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS MANUNGGAL</td><td>JL MANUNGGAL</td><td>CEGER</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PINTU AIR</td><td>JL PINTU AIR RW 06</td><td>CEGER</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>3</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS KP KRAMAT</td><td>JL TILENG RT 02 RW 04</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PERUM KOPTI</td><td>KOMPLEK KOPTI RT 03 RW 06</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4.5</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 04 RW 05 NO 65</td><td>JL H KARIM RT 04 RW 05</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>1</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PBSI</td><td>JL PBSI</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>PANTI SOSIAL TRESNA WERDHA BUDI MULIA 1</td><td>JL BINAMARGA</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>PREMIER ESTATE</td><td>JL H KARIM BLOK A - L</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 03 RW 05 (JPO)</td><td>JL H KARIM RT 03 RW 05</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 05 RW 05</td><td>JL H KARIM RT 05 RW 05</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>3</td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS TEROWONGAN SETU</td><td>TEROWONGAN SETU RT 01 RW 03</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS SETU RAYA</td><td>JL SETU RAYA RT 05 RW 01</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04 BINA ASRI NUSANTARA</td><td>KOMPLEK PERUM TAMAN MINI RT 08 RW 04</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>500</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 03</td><td>JL MINI III A RW 03</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS MADU INDAH</td><td>JL MADU INDAH RT 02 RW 03</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>PALEM KARTIKA DEAN</td><td>PERUM PALEM KARTIKA</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PALEM KARTIKA TENGAH</td><td>PERUM PALEM KARTIKA</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PALEM KARTIKA BELAKANG</td><td>KOMPLEK PALEM KARTIKA</td><td>BAMBU APUS</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS GANG DUREN MALAKA</td><td>JL GANG DUREN RT 01 RW 08</td><td>MUNJUL</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS BUNI</td><td>ASRAMA POLRI BUNI RT 08 RW 08</td><td>MUNJUL</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>1.5</td><td> </td></tr>
+        <tr><td>2020</td><td>PASAR UKM MUNJUL</td><td>PASAR MUNJUL</td><td>MUNJUL</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LPS CIPINANG ELOK RW 10</td><td>JL.CIPINANG ELOK BLOK AG NO.18</td><td>CIPINANG MUARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>16</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO BARKAH</td><td>JL. BEKASI TIMUR LL RT 15 RW 04</td><td>RAWABUNGA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>DIPO</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO KOLONG KP. MELAYU</td><td>JL AWAB</td><td>BALIMESTER</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>DIPO</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO GOR OTISTA</td><td>JL. OTISTA RAYA NO. 121 RT 008 RW 008</td><td>BIDARA CINA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>162</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS PERMATA</td><td>JL MATRAMAN RAYA</td><td>KAMPUNG MELAYU</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>CAWANG KAVLING</td><td>JL. BIRU LAUT</td><td>CIPINANG CEMPEDAK</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL CONTAINER RW 013 CIP. MUARA</td><td>JL. CIPINANG BALI LLL RT 05/013</td><td>CIPINANG MUARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>18</td><td> </td></tr>
+        <tr><td>2020</td><td>RUSUN BIDARA CINA</td><td>JL BIDURI BULAN, CAWANG</td><td>BIDARA CINA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LPS PERUMPUNG GG MAYONG</td><td>JL. DI PANJAITAN GG. MAYONG RT 07</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS GG REMAJA L</td><td>RW 03</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS GG REMAJA LLL</td><td>RW 03</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW.08</td><td>JL. KEBON NANAS SELATAN 1</td><td>CIPINANG CEMPEDAK</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 CBS</td><td>JL PANCA WARGA SATU RW 05</td><td>CIPINANG BESAR SELATAN</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>18</td><td> </td></tr>
+        <tr><td>2020</td><td>LPS TOTOGAN</td><td>JL CIPINANG CEMPEDAK L</td><td>CIPINANG CEMPEDAK</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS CONTAINER RW 02</td><td>JL DI PANJAITAN RW 02</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>KEBON SINGKONG</td><td>JL CIPINANG MUARA III KEBON SINGKONG</td><td>CIPINANG MUARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS BKT</td><td>JL. BASUKI RAHMAT</td><td>CIPINANG BESAR SELATAN</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>TPS</td><td>400</td><td> </td></tr>
+        <tr><td>2020</td><td>RUSUN KP. MELAYU</td><td>JL. JATINEGARA BARAT</td><td>KAMPUNG MELAYU</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DOOR TO DOOR CIPINANG CEMPEDAK</td><td>JL. CIPINANG CEMPEDAK</td><td>CIPINANG CEMPEDAK</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RUSUN CIPINANG BESAR SELATAN</td><td>JL PANCA WARGA</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>9</td><td> </td></tr>
+        <tr><td>2020</td><td>CIPINANG JAYA</td><td>JL CIPINANG JAYA</td><td>CIPINANG MUARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 SOBUR</td><td>JL PRUMPUNG SAWAH</td><td>CIPINANG BESAR UTARA</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>TONG BIN CILIWUNG</td><td>JL INSPEKSI SALURAN KALI CILIWUNG</td><td>KAMPUNG MELAYU</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JL DUKUH 5 RT 10 RW 05</td><td>JL DUKUH 5 RT 10 RW 05</td><td>DUKUH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 KEL. TENGAH</td><td>JL. RANTAI PERAK RT 004 RW 005</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>150</td><td> </td></tr>
+        <tr><td>2020</td><td>JL KOBER RT 09 RW 09</td><td>JL KOBER RT 09 RW 09</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>700</td><td> </td></tr>
+        <tr><td>2020</td><td>KOMPLEK PASPAMPRES</td><td>KOMPLEK PASPAMPRES</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JL KARYA</td><td>JL KARYA</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>KOMPLEK KODIM RT 09 RW 02</td><td>KOMPLEK KODIM RT 09 RW 02</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td> </td></tr>
+        <tr><td>2020</td><td>JL NUSSA RW 03</td><td>JL NUSSA RW 03</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>JL RS POLRI RT 06 RW 05</td><td>JL RS POLRI RT 06 RW 05</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td> </td></tr>
+        <tr><td>2020</td><td>JL RS POLRI RT 11 RW 04</td><td>JL RS POLRI RT 11 RW 04</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>JL H. MUDENIA RT 06 RW 09</td><td>JL H. MUDENIA RT 06 RW 09</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 011 KEL. KRAMAT JATI</td><td>JL. DATOK TONGGARA RW 011 KEL. KRAMAT JATI, KEC. KRAMAT JATI</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>TPS</td><td>300</td><td> </td></tr>
+        <tr><td>2020</td><td>JL PIJAR RT 12 RW 04</td><td>JL PIJAR RT 12 RW 04</td><td>DUKUH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>JL BHP RT 05 RW 06</td><td>JL BHP RT 05 RW 06</td><td>DUKUH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JL LEBAK JUWET RT 14 RW 03</td><td>JL LEBAK JUWET RT 14 RW 03</td><td>DUKUH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>150</td><td> </td></tr>
+        <tr><td>2020</td><td>JL DUKUH 4 RT 05 RW 01</td><td>JL DUKUH 4 RT 05 RW 01</td><td>DUKUH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JL CAWANG II</td><td>JL CAWANG II</td><td>CAWANG</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>TPS</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>JL MT HARYONO</td><td>JL MT HARYONO</td><td>CAWANG</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>84</td><td> </td></tr>
+        <tr><td>2020</td><td>JL DEWI SARTIKA GG TANJUNG SYANYANG</td><td>JL DEWI SARTIKA GG TANJUNG SYANYANG</td><td>CAWANG</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td> </td></tr>
+        <tr><td>2020</td><td>JL CILILITAN BESAR</td><td>JL CILILITAN BESAR</td><td>CILILITAN</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>TPS</td><td>150</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PLN CILILITAN</td><td>JL. MAYJEND SUTOYO RW.09 CILILITAN</td><td>CILILITAN</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>200</td><td> </td></tr>
+        <tr><td>2020</td><td>KOMPLEK ZENI AD</td><td>KOMPLEK ZENI AD</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>TPS</td><td>12</td><td> </td></tr>
+        <tr><td>2020</td><td>BALEKAMBANG RT 05 RW 05</td><td>BALEKAMBANG RT 05 RW 05</td><td>BALEKAMBANG</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>KOMPLEK PUSKESAD</td><td>KOMPLEK PUSKESAD</td><td>CILILITAN</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>JL M. SUTOYO</td><td>JL M. SUTOYO</td><td>CILILITAN</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>KELURAHAN TENGAH RT 03 RW 04</td><td>KELURAHAN TENGAH RT 03 RW 04</td><td>TENGAH</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>50</td><td> </td></tr>
+        <tr><td>2020</td><td>JL AL AMIN</td><td>JL AL AMIN</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>JL NUSA I RT 03 RW 05</td><td>JL NUSA I RT 03 RW 05</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>JL RS POLRI RT 06 RW 05</td><td>JL RS POLRI RT 06 RW 05</td><td>KRAMATJATI</td><td>KRAMATJATI</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW 02 DURI KOSAMBI</td><td>JL. H. SULAIMAN</td><td>DURI KOSAMBI</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>DIPO</td><td>280</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>DIPO RW 10 DURI KOSAMBI</td><td>JL.MAWAR UTAMA BLOK A3 NO.3</td><td>DURI KOSAMBI</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>DIPO</td><td>250</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 15 DURI KOSAMBI</td><td>JL. SIKAS</td><td>DURI KOSAMBI</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>400</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 15 KAPUK</td><td>JL. DAAN MOGOT ESTATE KAPUK</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 KAPUK</td><td>JL. PEDONGKELAN RAYA</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 KAPUK</td><td>JL. CENGKARENG INDAH</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>300</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KAPUK</td><td>JL. PTB CENGKARENG INDAH</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BAK RT002</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT002</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT009</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 001</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 11</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT11</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT005</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>5</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK DAMRI</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT 010</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT014</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT10</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT006</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT001</td><td>JL RADJIMAN RW 004</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RT09</td><td>JL RADJIMAN RW 006</td><td>RAWA TERATE</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW008</td><td>JL RAYA PENGIILINGAN</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 008</td><td>JL RAYA PENGIILINGAN</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>1</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RASAMALA RW.09</td><td>JL.RASAMALA RW.09</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>150</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN PINUS BLOK A</td><td>RUSUN PINUS BLOK A</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN PINUS BLOK B</td><td>RUSUN PINUS BLOK B</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RUSUN PINUS BLOK C</td><td>RUSUN PINUS BLOK C</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 18</td><td>JL BULAVAR</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PIK 2</td><td>JLN. KALI BUARAN RW.07</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>200</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PIK 1</td><td>`</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>200</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER PERUM TAMAN BUARAN</td><td>PERUM TAMAN BUARAN</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RUSUN KOMARUDIN</td><td>RUSUN P KOMARUDIN</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>4</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK TIKUNGAN</td><td>JL RAYA SOEMARNO</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER KANTOR PENGADILAN MILITER</td><td>JL SOEMARNO</td><td>PENGGILINGAN</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 02</td><td>RW 02</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 13</td><td>RW 13</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER PERUM JGC</td><td>PERUM JGC</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 01</td><td>RW 01</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 08</td><td>RW 008</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>BAK RW 07</td><td>RW 07</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 06</td><td>RW 06</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>60</td><td> </td></tr>
+        <tr><td>2020</td><td>CONTAINER RW 11</td><td>RW 11</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>40</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 03</td><td>RW 03</td><td>CAKUNG TIMUR</td><td>CAKUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL KERJA BAKTI</td><td>MAKASAR</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 02 LANDASAN</td><td>JL. MESJID AL MUNIR</td><td>MAKASAR</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>80</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05</td><td>JL. AL FALAH</td><td>PINANG RANTI</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>GG. H. YAKUBI</td><td>PINANG RANTI</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 01</td><td>JL. PINANG RANTI BARAT</td><td>PINANG RANTI</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RTM RW.02</td><td>JL. ASEM NIRBAYA RW.02</td><td>PINANG RANTI</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>600</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW.01 KAMBOJA</td><td>JL KAMBOJA</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS</td><td>500</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL. SD INPRES</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>RW 03 SDI</td><td>JL. UDAYANA</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>25</td><td> </td></tr>
+        <tr><td>2020</td><td>RW 03 JEMBATAN</td><td>JL. UDAYANA</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05</td><td>JL USMAN HARUN</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05</td><td>JL PERMATA</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>RW 07</td><td>JL. MAYJEN SOETOYO</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS</td><td>18</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 12</td><td>JL. PERMATA</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>10</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 08</td><td>JL. HALIM PERDANA KUSUMAH</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 06</td><td>JL PANJAITAN</td><td>KEBON PALA</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 09</td><td>JL. PANGKALAN JATI VII</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>45</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 13 NAGA</td><td>JL PANGKALAN JATI II</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>RW.06 KODAM</td><td>JL.  SEULAWAH RAYA RW.06</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS</td><td>300</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 11</td><td>JL. INPEKSI TARUM BARAT</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 12</td><td>JL HARAPAN INDAH</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04 BOROBUDUR</td><td>JL PANGERAN</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>8</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL. PANGERAN</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 03</td><td>JL AL MUQOROBIN</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 02</td><td>JL. INPEKSI TARUM BARAT</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 01</td><td>JL TARUNA</td><td>CIPINANG MELAYU</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td> </td></tr>
+        <tr><td>2020</td><td>TPST RW.3 HALIM PERDANAKUSUMAH</td><td>JL. BIMA</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS</td><td>2000</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KUKILA</td><td>JL. KUKILA RAYA</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 01</td><td>JL. DIRGANTARA 1 HALIM</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04</td><td>JL. SQUADRON</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>50</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 / 06 TAMAN INTIRUB</td><td>JL. KOMODOR</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>15</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 11 RAJAWALI</td><td>JL. RAJAWALI BARU</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 11 RAJAWALI</td><td>JL. RAJAWALI BARU</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 12 RAJAWALI</td><td>JL. RAJAWALI BARU</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>30</td><td> </td></tr>
+        <tr><td>2020</td><td>TPST RW.14 HALIM PERDANAKUSUMAH</td><td>JL. KAYATUN RW.14</td><td>HALIM PERDANA KUSUMAH</td><td>MAKASAR</td><td>JAKARTA TIMUR</td><td>TPS 3R</td><td>2000</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS FLORES</td><td>JL. FLORES CEGER</td><td>CEGER</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 01 RT 03</td><td>JL PAGELARANG RW 01</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS JANKES</td><td>JL JANKES AD RW 01</td><td>MUNJUL</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO POLRI</td><td>KOMPLEK POLRI RT 03 RW 03</td><td>MUNJUL</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>200</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS ASSYAFIYAH</td><td>JL ASYAFIYAH RT 04 RW 03</td><td>CILANGKAP</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS MAWAR</td><td>JL MAWAR</td><td>CEGER</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RT 04 RW 05 NO 95</td><td>JL H KARIM RT 04 RW 05</td><td>SETU</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>DIPO</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TPS TANGKI</td><td>JL TANGKI RT 04 RW 03</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>KOMPLEK BINAMARGA</td><td>KOMPLEK BINAMARGA RW 05</td><td>CIPAYUNG</td><td>CIPAYUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>70</td><td> </td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 06 BKT</td><td>JL BUKIT PERINDU</td><td>PONDOK BAMBU</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 11</td><td>JL DUREN SAWIT BARU</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 05 & RW 07</td><td>JL LAUT SAMUDRA</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS AETRA RW 05</td><td>JLN. KALIMALANG RT.05/RW.05</td><td>PONDOK KELAPA</td><td>DUREN SAWIT</td><td>JAKARTA TIMUR</td><td>TPS</td><td>150</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>DIPO PISANGAN BARU</td><td>JALAN PISANGAN BARU TENGAH RT 14</td><td>PISANGAN BARU</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>250</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW.  10 KEL. PALMERIAM</td><td>JALAN SIAGA RAYA</td><td>PALMERIAM</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>TPS</td><td>80</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 23/03 BERLAN</td><td>JLN BERLAN RT 23/03</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 26/03 BERLAND</td><td>JLN KESATRIAN 5</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>9</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 28/03 BERLAND</td><td>JLN KESATRIAN IV</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 22/03 BERLAND</td><td>JLN KESATRIAN V</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 15/03 BERLAN</td><td>JLN KESATRIAN V D BERLAN</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 19/20 RW 03</td><td>JLN KESTRIAN V D</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 25/03 BERLAND</td><td>JLN KESATRIAN 8 RT 25/03 BERLAND</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>10</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 21 BERLAND</td><td>JLN KESATRIAN VIII</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 27/03 BERLAN</td><td>JLN KESATRIAN IX BERLAN</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO UTAN KAYU SELATAN</td><td>JL. GALUR SARI RT 12 RW 01</td><td>UTAN KAYU SELATAN</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>500</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 04/05 ASEM GEDE</td><td>JALAN ASEM GEDE I</td><td>UTAN KAYU SELATAN</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>TPS</td><td>35</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TRANSIT/POOL GEROBAK SLAMET RIYADI</td><td>JLN SLAMET RIYADI IV</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 12/03 BERLAND</td><td>JLN KESATRIAN 10</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>3</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TRANSIT/POOL GEROBAK PADEL RW 01</td><td>JALAN MATRAMAN I</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TRANSIT/POOL GEROBAK SLAMET RIYADI</td><td>JALAN SLAMET RIYADI IV</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 002 PISANGAN BARU</td><td>JALAN PISANGAN BARU TENGAH I RT 02</td><td>PISANGAN BARU</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>TPS</td><td>5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DPO KAYU MANIS</td><td>JLN KAYU MANIS 4 RW 03</td><td>KAYU MANIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>350</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 18/03 BERLAN</td><td>JLN KESATRIAN VIII</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>16</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT17/03 BERLAN</td><td>JLN KESATRIAN IX BERLAN</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>28</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 11/03 BERLAN</td><td>JLN KESATRIAN X BERLAN</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>16</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BAK BETON RT 14/10 RW 03 BERLAN</td><td>JLN KESATRIAN X BERLAN</td><td>KEBON MANGGIS</td><td>MATRAMAN</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JL. LEBAK SARI DI BAWAH SMPN 103 CIJANTUNG</td><td>JL LEBAK SARI RW 02</td><td>CIJANTUNG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 09</td><td>JL LINGKAR SARI RT 07 RW 09</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>KALISARI RAYA SAMPING ALFA</td><td>JL KALISARI RT 06 RW 01</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JALAN KALISARI 3 SAWIT</td><td>JL KALISARI 3 RT 7 RW 10</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO TIPAR</td><td>JL. RAYA TIPAR RW,07</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>200</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JALAN KOPI RW 03</td><td>JL KOPI RW 03</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>2</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JL. LAPAN RW 01</td><td>JL LAPAN RW 01</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JL. RAYA BOGOR RW 01 (CIBA)</td><td>JL RAYA BOGOR RW 01</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JL. BUAH RW 04</td><td>JL BUAH RT 02 RW 04</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KOMPLEK LAPAN</td><td>JL KOMPLEK LAPAN RT 07 RW 09</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>80</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>JL. GANDARIA RW 02</td><td>JL GANDARIA 1,2,3,4</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>JL. GANDARIA I,II,III</td><td>JL GANDARIA III</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>KOMPLEK ZENI</td><td>JL RAYA BOGOR RW 08</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>KANTOR POLSEK PASAR REBO</td><td>JL. RAYA BOGOR</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>7</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KOMPLEK BENGRAH</td><td>JL PULO RW 08</td><td>CIJANTUNG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>16</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KOMPLEK DENZIBANK</td><td>JL. RA FADILLAH</td><td>CIJANTUNG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO PENDIDIKAN</td><td>JL. PENDIDIKAN 3 RW 04</td><td>CIJANTUNG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>ASRAMA POLRI</td><td>JL TB SIMATUPANG RW 07</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TRIKORA</td><td>JL TRIKORA RT 01 RW 09</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>SAMPING POM BENSIN</td><td>JL TB SIMATUPANG RT 07 RW 11</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>DIPO MOONG</td><td>JL. H. MOONG RW. 02</td><td>BARU</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>220</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPST KOPASSUS</td><td>JL. RA FADILLAH</td><td>BARU</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>TPS 3R</td><td>500</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 01</td><td>JL RAYA TENGAH RW 01</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>JL PUSKESMAS KARTINI</td><td>JL PUSKESMAS RT 04 RW 02</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KOMP. YONKAV 7 BAWAH</td><td>JL. SARACEEN</td><td>BARU</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>GOR KALISARI</td><td>JL KALISARI 3 RT 4 RW 10</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>KALISARI 2</td><td>JL KALISARI 2</td><td>KALISARI</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RINDAM JAYA</td><td>JL KOMPLEK RINDAM JAYA RT 02 RW 05</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>KOMPLEK TELSA LAPAN</td><td>JL PENDIDIKAN RW 09</td><td>PEKAYON</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO BERINGIN</td><td>JL. RAYA BERINGIN RW.04</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>DIPO</td><td>230</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RS KESDAM</td><td>JL KESEHATAN</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>6</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>PT GAMYA POOL BIS</td><td>JL TB SIMATUPANG RW 11</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>POOL TAKSI</td><td>JL RAYA CONDET RW 01 KEL GEDONG</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>KORAMIL BELAKANG</td><td>JL BAKUNG RT 01 RW 11</td><td>GEDONG</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>YONKAV VII BARAK</td><td>JL. H. MOONG 1</td><td>BARU</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>TPS</td><td>230</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>JL HAJI HASAN</td><td>JL. H. HASAN</td><td>BARU</td><td>PASAR REBO</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW. 009 KAYU MAS UTARA</td><td>JL KAYU MAS UTARA RW 09</td><td>PULOGADUNG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 004 KEL. JATINEGARA KAUM</td><td>JL REMAJA RT 08 RW 04</td><td>JATINEGARA KAUM</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>8</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW.003,004 JATI</td><td>JL JATI BENDUNGAN RW 03</td><td>JATI</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW.005 POS GIRO</td><td>JL PONCOL ATAS SAMPING POS GIRO</td><td>JATI</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 016 PLED</td><td>JL PULO NANGKA BARAT 2B</td><td>KAYU PUTIH</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td>50</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 013,014 PISANGAN TIMUR</td><td>JL PERSAHABATAN RAYA</td><td>PISANGAN TIMUR</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 010,011 RAWAMANGUN</td><td>JL WISMA JAYA RW 10</td><td>RAWAMANGUN</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 008,009 RAWAMANGUN</td><td>JL WISMA JAYA DAN PEGAMBIRAN</td><td>RAWAMANGUN</td><td>JATINEGARA</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 006 MUSIK CIPINANG</td><td>JL CIPINANG BARU RAYA RW 06</td><td>CIPINANG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 005 BRIMOB CIPINANG</td><td>JL RAYA BEKASI TIMUR</td><td>CIPINANG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>16</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW. 010 PULOGADUNG</td><td>JL. KAYU MAS RAYA</td><td>PULOGADUNG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>BAK BETON</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW.007 PULOGADUNG</td><td>JL KAYU PUTIH TENGAH  RW 07</td><td>PULOGADUNG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL CONTAINER</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW. 008 PULOGADUNG</td><td>JL. KAYU PUTIH UTARA</td><td>PULOGADUNG</td><td>PULOGADUNG</td><td>JAKARTA TIMUR</td><td>POOL GEROBAK</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 12 KAPUK</td><td>JL. PEDONGKELAN RAYA</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 16 KAPUK</td><td>JL. KAPUK PASAR ALAM</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 11 KAPUK</td><td>JL. KAPUK METRO</td><td>KAPUK</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LPS RW 03 CENGKARENG TIMUR</td><td>JL. BANGUN NUSA</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>50</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>LPS RW 13 CENGKARENG TIMUR</td><td>JL. PEDONGKELAN RAYA</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KEDAUNG KALI ANGKE</td><td>JL. KOMP. DEPARTEMEN AGAMA</td><td>KEDAUNG KALI ANGKE</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>80</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW 11 CENGKARENG TIMUR</td><td>JL. OUTER RING ROAD</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RUSUN CENGKARENG</td><td>JL. RUSUN CENGKARENG</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>15</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RUSUN BUDHA TSUCI</td><td>JL. RUSUN CENGKARENG INDAH BLOK DAHLIA 3</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW 14 CENGKARENG TIMUR</td><td>JL. RAWA KEDAUNG</td><td>CENGKARENG TIMUR</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>DIPO</td><td>500</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 08 CENGKARENG BARAT</td><td>JL. KAMAL RAYA</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN FLAMBOYAN</td><td>JL. RUSUN FLAMBOYAN</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RUKO 1000</td><td>JL. PERUM KFT SERIBU RUKO</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 11 CENGKARENG BARAT</td><td>JL. PERUM KFT BLOK A3</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>50</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 13 CENGKARENG BARAT</td><td>JL. TAMAN PALEM LESTARI</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 16 CENGKARENG BARAT</td><td>JL. TAMAN PALEM LESTARI</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>200</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 15 CENGKARENG BARAT</td><td>JL. TAMAN PALEM LESTARI</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>TPS 3R</td><td>290</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 05 CENGKARENG BARAT</td><td>JL. BINA SERASI III BLOK E</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>TPS 3R</td><td>405</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS RW 07 CENGKARENG BARAT</td><td>JL. CENDRAWASIH X NO. 8</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>100</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 06 CENGKARENG BARAT</td><td>JL. LINGKAR LUAR</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO PASAR RW 01 RAWA BUAYA</td><td>JL. DARMA WANITA 1</td><td>CENGKARENG BARAT</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 03  RAWA BUAYA</td><td>JL. H. NIMIN</td><td>RAWA BUAYA</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>300</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW 02  RAWA BUAYA</td><td>JL. H. NIMUN SALEH</td><td>RAWA BUAYA</td><td>CENGKARENG</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO MAKALIWE</td><td>JL MAKALIWE RT 13 RW 02</td><td>GROGOL</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>DIPO</td><td>400</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 02</td><td>JL ARJUNA RW 02 RT 11 RW 02</td><td>TANJUNG DUREN SELATAN</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>DIPO</td><td>90</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO INDRALOKA</td><td>JL INDRALOKA RW 06</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>DIPO</td><td>84</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>DIPO KEMBAR RW 02</td><td>JL JELAMBAR BARU RAYA RW 02</td><td>JELAMBAR BARU</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 08 JELEMBER</td><td>JL JELAMBAR BARU RAYA RW 08</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 11 JELEMBER</td><td>JL RATU MANTEN 3 RW 11</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS POLO</td><td>JL KUSUMA RAYA RW 11 DAN 12</td><td>JELAMBAR BARU</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>120</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>PAKUWON</td><td>JL KEMBAR SELATAN RW 09</td><td>JELAMBAR BARU</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 09</td><td>JL TAMAN DUTA MAS RW 09</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 01</td><td>JL DAAN MOGOT RW 01</td><td>TANJUNG DUREN UTARA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 02 WIJAYA KUSUMA</td><td>JL SOSIAL RT 04 RW 02</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>4</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 04</td><td>JL WIJAYA RT 08 RW 04</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 09</td><td>JL TAWAKAL RAYA RW 09</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 04</td><td>JL  MANDALA RW 04</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>TAMAN KOTA</td><td>JL. PERUMAHAN TAMAN KOTA BLOK B1</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>250</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RPINTU TOL TAMAN ARIES RW 02</td><td>JL. KEMBANGAN KENCANA NO 25</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>LINTAS JL. PESANGGRAHAN</td><td>LINTAS JALUR PESANGGERAHAN</td><td>PESANGGRAHAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>KOMPLEK WALIKOTA</td><td>JL. BUNI I /KOMPLEK WALIKOTA JAKARTA BARAT</td><td>MERUYA SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW.08 KEBON JERUK</td><td>JL. PERUMAHAN KEBON JERUK</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 KOMPLEK DPR</td><td>JL. KOMPLEK DPR KEBON JERUK</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 11 KOMPLEK BPK</td><td>JL. KOMPLEK BPK KEBON JERUK RT 01 RW 11</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>40</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 PERUMAHAN KEDOYA PERMAI</td><td>JL. PRISMA</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>49</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 10 JL. LAPANGAN BOLA</td><td>JL. LAPANGAN BILA KEBON JERUK RT 04 RW 10</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>80</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 04 HANKAM</td><td>JL. KEBAYORAN LAMA NO 10 SUKABUMI UTARA RT 02 RW 04</td><td>SUKABUMI UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>70</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 02  JL. ARTERI KELAPA DUA</td><td>JL. ARTERI KELAPA DUA</td><td>SUKABUMI UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>350</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 05 PERUM PERTAMBANGAN</td><td>KOMPLEK PERUM PERTAMBANGAN</td><td>KELAPA DUA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 VILLA KELAPA DUA</td><td>JL. JANUR</td><td>KELAPA DUA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>250</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 PINGGIR KALI PESANGGERAHAN</td><td>JL. PINGGIR KALI PESANGGERAHAN</td><td>KELAPA DUA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>250</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 05 JL. PAHLAWAN</td><td>JL. PAHLAWAN POS PENGUMBEN</td><td>SUKABUMI SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 1 PERURI</td><td>JL. KOMPLEK KPBD RW. 01</td><td>SUKABUMI SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>80</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW. 06 PERUMAHAN BULOG</td><td>JL. RAYA POS PENGUMBEN</td><td>SUKABUMI SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>70</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS RW. 02 JL. PATRA</td><td>JL. PATRA DURI KEPA</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 007 DURI KEPA</td><td>JL. PALEM</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW.02 JL. DURI INTAN RAYA</td><td>JL. DURI INTAN RAYA</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW.10 JL. MANGGA</td><td>JALAN MANGGA XVII DURI KEPA</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>70</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 13 KALI SEKRETARIS</td><td>JL. KALI SEKRETARIS</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>70</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 13 SUNGAI YORDAN</td><td>JL. RATU MELATI</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 14 GREEN VILLE RAYA DEWI SARTIKA</td><td>JL. DEWI SARTIKA</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>240</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 03 GREEN VILLE</td><td>JL. KOMPLEK GREEN VILLE</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW.01 DURI KEPA</td><td>JL. ARJUNA UTARA RW.01</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>250</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 DURI KEPA</td><td>JL. KEBON RAYA 3</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 DURI KEPA</td><td>KALI SEKRETARIS</td><td>DURI KEPA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>120</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 07  KEDOYA UTARA</td><td>JL. KEDOYA UTARA</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 04 PERUM TAMAN KEDOYA UTARA</td><td>JL. KEDOYA ALBASIA RAYA</td><td>KEDOYA SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>40</td><td>JALAN UMUM</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 PERUMAHAN DEPAG</td><td>JL. KEDOYA DURI RAYA</td><td>KEDOYA SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KEDOYA SELATAN</td><td>JL. PILAR RAYA</td><td>KEDOYA SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS JL. ADHI KARYA</td><td>JL ADHI KARYA</td><td>KEDOYA SELATAN</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 01 BOHLAM</td><td>JL. BOHLAM KEDOYA UTARA</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 02 REL KERETA API PESING</td><td>JL. PENGAIRAN PESING</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 03 GREEN GARDEN</td><td>KOMPLEK GREEN GARDEN</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 03 GREEN GARDEN</td><td>KOMPLEK GREEN GARDEN</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>216</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RUSUN KEJAKSAAN</td><td>KOMPLEK RUSUK KEJAKSAAN</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>20</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 BUDI DHARMA</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>230</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW 03</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>400</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW  07 SUKAPURA</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>400</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO MOA</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>659</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO KALI GENDONG</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>150</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PERMAI RW.13</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>250</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 05 SUNRISE GARDEN</td><td>JL. SURYA MUSTIKA</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW. 11 SAMPING KANTOR KELURAHAN</td><td>SAMPING KANTOR KEL. KEDOYA UTARA</td><td>KEDOYA UTARA</td><td>KEBON JERUK</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 04</td><td>JL. TALIB</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL KONTAINER RW 06</td><td>JL. TALIB</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>18</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 01</td><td>JL. TALIB</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL KONTAINER RW 02</td><td>JL. PASAR KRUKUT</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 03</td><td>JL. TALIB</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 01</td><td>JL. KETAPANG UTARA</td><td>KRUKUT</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>35</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 01</td><td>JL. PANCORAN RAYA GLODOK</td><td>GLODOK</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>14</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 02</td><td>JL KEADILAN 5</td><td>GLODOK</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 03</td><td>JL KEADILAN 5</td><td>GLODOK</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 05</td><td>JL KEADILAN 5</td><td>GLODOK</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>12</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL KONTAINER RW 06</td><td>JL. KUNIR DALAM</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 01</td><td>JL. MANGGA DUA RAYA</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 05</td><td>JL. PANGERAN JAYA KARTA</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL KONTAINER RW 06 GLORIA</td><td>JL. PANCORAN GLORIA</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>5</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>POOL GROBAK RW 07</td><td>JL. KUNIR</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 07</td><td>JL. INSPEKTUR KUNIR</td><td>PINANGSIA</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 MANGGA BESAR</td><td>JL. MANGGIS RAYA</td><td>MANGGA BESAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 02 MANGGA BESAR</td><td>JL. MANGGA BESAR 5 NO 27</td><td>MANGGA BESAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 03 MANGGA BESAR</td><td>JL. MANGGA BESAR 5 NO 70</td><td>MANGGA BESAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 04, 05 MANGGA BESAR</td><td>JL. MANGGA BESAR 5 NO 140</td><td>MANGGA BESAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 06 MANGGA BESAR</td><td>JL. TRAYA MANGGA BESAR</td><td>MANGGA BESAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 -07 TANGKI</td><td>JL. RAYA MANGGA BESAR 12</td><td>TANGKI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 02,03,05 TAMANSARI</td><td>JL. MANGGA BESAR 2</td><td>TAMANSARI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>70</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 MAPHAR</td><td>JL. AIPU</td><td>MAPHAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 03 MAPHAR</td><td>JL. TAMAN SARI NO 32 B</td><td>MAPHAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 04 - 07 MAPHAR</td><td>JL. KEBON JERUK IX NO 116</td><td>MAPHAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 08 MAPHAR</td><td>JL. KEBON JERUK III NO 42 A</td><td>MAPHAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 09 MAPHAR</td><td>JL. KEBON JERUK XVII NO 20</td><td>MAPHAR</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>40</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 TAMANSARI</td><td>JL. TAMANSARI RAYA</td><td>TAMANSARI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 04 TAMANSARI</td><td>JL. MANGGA BESAR</td><td>TAMANSARI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 06 07 TAMANSARI</td><td>JL. TAMANSARI NO 53 B</td><td>TAMANSARI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 08 TAMANSARI</td><td>JL. KEBON JERUK IX</td><td>TAMANSARI</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01-09 KEAGUNGAN</td><td>JL. INSPEKSI KALI KRIKUT</td><td>KEAGUNGAN</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TOKO ASEMKA</td><td>JL. INSPEKSI KALI KRIKUT</td><td>KEAGUNGAN</td><td>TAMANASARI</td><td>JAKARTA BARAT</td><td> </td><td>40</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO HANKAM RW 02</td><td>JL. KEPODANG</td><td>PALMERAH</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>64</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 03 PALMERAH</td><td>JL. KEMANGGISAN PULO</td><td>PALMERAH</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>300</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KEMANGGISAN</td><td>JL. INSPEKSI KALI GROGOL RT. 11 RW. 03</td><td>KEMANGGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 KEMANGGISAN</td><td>JL. INSPEKSI KALI GROGOL RT. 03 RW. 01</td><td>KEMANGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>40</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 KEMAGGISAN</td><td>JL. INSPEKSI KALI GROGOL RT. 03 RW. 01</td><td>KEMANGGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW 10 KEL JATIPULO</td><td>JL. BANJIR KANAL BARAT RT 04 RW 10</td><td>JATIPULO</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>36</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 SLIPI</td><td>JL. KS TUBUN 3 DALAM RT 02 RW 02</td><td>SLIPI</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>75</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 04 JATIPULO</td><td>JALAN TOMANG RAYA RT 11 RW 04</td><td>JATIPULO</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>360</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS RW 5,6,7 KEL. JATIPULO</td><td>JALAN BANJIR KANAL BARAT</td><td>JATIPULO</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 KOTA BAMBU SELATAN</td><td>JALAN KBS 1 RT 07 RW 09</td><td>KBS</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>90</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 KOTA BAMBU SELATAN</td><td>JL. KS TUBUN RAYA</td><td>KBS</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>225</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 SLIPI</td><td>JL. KS TUBUN 1 RT 01 RW 01</td><td>SLIPI</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>27</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 SLIPI BAK BETON</td><td>JL. KS TUBUN 2</td><td>SLIPI</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>6</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 06 SLIPI BAK CONTEINER</td><td>JL. KS TUBUN 2</td><td>SLIPI</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 KOTA BAMBU SELATAN</td><td>JL. KS TUBUN 1</td><td>KBS</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>18</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 KBU</td><td>JL. KS TUBUN</td><td>KBU</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 KBU</td><td>JL. FLAMBOYAN</td><td>KBU</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 07 KBU</td><td>JL. KAMBOJA</td><td>KBU</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 05 KEL KEMANGGISAN</td><td>JL. INSPEKSI KALI GROGOL</td><td>KEMANGGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>80</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 KEL KEMANGGISAN</td><td>JL. RAYA BAKTI 3</td><td>KEMANGGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td>80</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 KBU</td><td>JL. BIMA</td><td>KEMANGGISAN</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 07,08 KEL JATIPULO</td><td>JL. Z</td><td>JATIPULO</td><td>PALMERAH</td><td>JAKARTA BARAT</td><td> </td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LPS PADAMULYA</td><td>JL. PADAMULYA</td><td>ANGKE</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 PASAR AYAM</td><td>PASAR AYAM</td><td>ANGKE</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 05</td><td>JL. DURI SELATAN VIII RW 05</td><td>DURI SELATAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>12</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 06</td><td>JL. DURI SELATAN RAYA 8 RT 13 RW 06</td><td>DURI SELATAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>2</td><td> </td></tr>
+        <tr><td>2020</td><td>TPS RW 04 DURI SELATAN</td><td>JL. DURI SELATAN IV</td><td>DURI SELATAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO DURI UTARA</td><td>JL. DURI UTARA III RW.02</td><td>DURI UTARA</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>120</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>PELBAK SEGITIGA</td><td>JL. JEMBATAN BESI RAYA RW 05</td><td>JEMBATAN BESI</td><td>TAMBORAN</td><td>JAKARTA BARAT</td><td> </td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01, 02, 04</td><td>JL. JEMBATAN BESI I KALI ITEM</td><td>JEMBATAN BESI</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>10</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 09 JEMBATAN BESI</td><td>JL. JEMBATAN BESI RT. 06</td><td>JEMBATAN BESI</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS GUDANG BANDUNG</td><td>JL. STASIUN ANGKE</td><td>JEMBATAN LIMA</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>120</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BKB KALIANYAR</td><td>JL. SETIAKAWAN</td><td>KALIANYAR</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>PEKOJAN</td><td>JL. GEDONG PANJANG</td><td>PEKOJAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>250</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>PASAR PAGI KOLONG</td><td>JL. PERNIAGAAN BARAT</td><td>ROA MALAKA</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>72</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>DIPO HANURA</td><td>JALAN HANURA RAYA RW 15</td><td>TANAH SEREAL</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>300</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS DURI RAYA</td><td>JL. DURI RAYA</td><td>DURI SELATAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS PADAMULYA</td><td>JL. PADAMULYA RT 05 RW 08</td><td>ANGKE</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>DURI UTARA</td><td>JL. DURI UTARA III RT 15 RW 02</td><td>DURI UTARA</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>150</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>POOL GEROBAK RW 1,2,3</td><td>JL. DURI RAYA RT 02 RW 02</td><td>DURI SELATAN</td><td>TAMBORA</td><td>JAKARTA BARAT</td><td> </td><td>32</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS 3 R GELORA BUNG KARNO</td><td>JL PINTU 10 GELORA BUNG KARNO</td><td>GELORA</td><td>TANAH ABANG</td><td>JAKARTA PUSAT</td><td> </td><td>1000</td><td>GBK</td></tr>
+        <tr><td>2020</td><td>TPS 3 R KETAPANG</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>700</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>DIPO INDOOR</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>225</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO PADERMANGAN BARAT</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>450</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW 15 SEMPER BARAT</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>687.5</td><td> </td></tr>
+        <tr><td>2020</td><td>DIPO RW 05 SEMPER TIMUR</td><td> </td><td> </td><td> </td><td> </td><td> </td><td>158</td><td> </td></tr>
+        <tr><td>2020</td><td>RW 08</td><td>JL TAWAKAL RT 04 RW 08</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 05</td><td>JL DELIMA RT 14 RW 05</td><td>TANJUNG DUREN SELATAN</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>21</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TAMAN RASA SAYANG</td><td>JL DAAN MOGOT RW 08</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>100</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 05</td><td>JL TB ANGKE RW 05</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>12</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 01 JELAMBAR</td><td>JL HADIAH UTAMA 7 RW 01</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 04</td><td>JL SATRIA RW 04</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 10 JELAMBAR</td><td>JL KAVLING POLRI BLOK C RW 10</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 02</td><td>JL KAVLING POLRIRW 02</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 07 WIJAYA KUSUMA</td><td>JL UTAMA SAKTI RW 07</td><td>WIJAYA KUSUMA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 02, 03</td><td>JL GELONG BARU</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 10</td><td>JL TOMANG UTARA RW 10</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>7.5</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TANGGUL TOMANG</td><td>JL BKB RW 11</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 015</td><td>JLN RAWA KEPA II RT.6/RW.15</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 07</td><td>JL TAWAKAL UJUNG RAYA RW 07</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>KOMPLEK MANDIRI TOMANG</td><td>JL GELONG UTARA RT 01 RW 08</td><td>TOMANG</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 03</td><td>JL PENERANGAN RW 03</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 05</td><td>JL PUTU MENTEN RW 05</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td> </td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LINTAS RW 03</td><td>JL SUSILO RAYA RW 03</td><td>GROGOL</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>LINTAS TANGGUL GROGOL</td><td>JL BKB RW 01</td><td>GROGOL</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>LINTAS</td><td> </td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 3 TANJUNG DUREN SELATAN</td><td>JL TANJUNG DUREN RAYA RW 03</td><td>TANJUNG DUREN UTARA</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>DIPO</td><td> </td><td> </td></tr>
+        <tr><td>2020</td><td>RW 05,07, 10</td><td>JL SETIA JAYA RW 05</td><td>JELAMBAR</td><td>GROGOL PETAMBURAN</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>120</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 01 SEMANAN</td><td>JL. DAAN MOGOT RW 001 SEMANAN</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 02 SEMANAN</td><td>JL. BARU KALI MAKEVART DAAN MOGOT</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 005 SEMANAN</td><td>JL MAKEVART</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>50</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 009 SEMANAN</td><td>JL. SEMANAN RAYA</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>50</td><td>FASUM</td></tr>
+        <tr><td>2020</td><td>DIPO KOPTI RW 11 SEMANAN</td><td>JL. H. ASENI PERUM KOPTI RW.11</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>360</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 SEMANAN</td><td>JL. KAMPUNG MALANG SEMANAN</td><td>SEMANAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>160</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>TPS SUMUR BOR</td><td>JL. RAYA SUMUR BOR</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS KOJAN RW 06</td><td>JL. KOJAN RW 06</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW 009/010 PERUM CITRA 1</td><td>PERUM CITRA GARDEN 1 RW.09/RW.10</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>600</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS KODAM KALIDERES</td><td>KOMPLEK KODAM KALIDERES</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>320</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 014 KALIDERES</td><td>KOMPLEK KALIDERES PERMAI</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>RW 02 KOMPLEK BRIMOB</td><td>JL. DAAN MOGOT, SAMPING POLSEK</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 01 KOMPLEK PERTAMINA</td><td>JL. DAAN MOGOT PINTU I</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>60</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>BULAK TEKO</td><td>JL. BULAK TEKO</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>700</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 016 KALIDERES</td><td>KOMPLEK CITRA BLOK A</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 15 KALIDERES</td><td>CITRA I EXT KALIDERES</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>320</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 08 KALIDERES</td><td>JL. CITRA I KALIDERES</td><td>KALIDERES</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO RW 009 PEGADUNGAN</td><td>JL. BAMBU LARANGAN</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>700</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 015 PEGADUNGAN</td><td>KOMPLEK TAMAN SURYA</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 009 PEGADUNGAN</td><td>JL. KALI MAJA</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 01 PEGADUNGAN</td><td>JL BULAK SEREH RW 01</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>300</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>MERPATI RW 010 PEGADUNGAN</td><td>KOMPLEK PERUM MERPATI</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>120</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 014 PEGADUNGAN</td><td>KOMPLEK PURI MANSION</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>300</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 007 PEGADUNGAN</td><td>JL. KALI MAJA</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>200</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>RW 003 PEGADUNGAN</td><td>KOMPLEK TAMAN SURYA</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>200</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RW 013 PEGADUNGAN</td><td>KOMPLEK CITRA 3</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>800</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>DIPO KOMPLEK CITRA 5 RW.10</td><td>PERUM CITRA 5 RW.10</td><td>KAMAL</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>200</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS T RW 05 KAMAL</td><td>JL. SAHABAT KAMAL</td><td>KAMAL</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>TPS</td><td>60</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS T RW 08 KAMAL</td><td>JL. BENDA RAYA WALUNGAN</td><td>KAMAL</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>TPS</td><td>60</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS T RW 03 KAMAL</td><td>JL. SAHABAT KAMAL</td><td>KAMAL</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>TPS</td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 004 TEGAL ALUR</td><td>JL. MENCENG KOMPLEK RW.04</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>DIPO</td><td>300</td><td>PEMERINTAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 011 TEGAL ALUR</td><td>JL. PERMATA TEGAL ALUR</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>LPS RW 07 TEGAL ALUR</td><td>JL. SUKATANI PASAR TIMBUL</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>BAK BETON</td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS RW 002 TEGAL ALUR</td><td>JL. BHAKTI MULIA</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>TPS</td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 12 TEGAL ALUR</td><td>JL. RAWA MELATI</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL CONTAINER</td><td>45</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 08 TEGAL ALUR</td><td>JL. RAWA MELATI</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>60</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 03 TEGAL ALUR</td><td>JL. LINGKUNGAN III</td><td>TEGAL ALUR</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>TPS</td><td>20</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>TPS RW 04 PEGADUNGAN</td><td>JL. RAYA UTAN JATI</td><td>PEGADUNGAN</td><td>KALIDERES</td><td>JAKARTA BARAT</td><td>POOL GEROBAK</td><td>35</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>DIPO KEBO</td><td>JL. PENYELESAIAN TOMANG III</td><td>MERUYA UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td>DIPO</td><td>260</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>RW 02 DAMKAR</td><td>JL. PEMADAM</td><td>JOGLO</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>12</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>KOMPLEK DAMKAR RW 02</td><td>JL. DAHLIA NO 42</td><td>JOGLO</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>LPS KOPILAS</td><td>G H. MANSYUR NO 48</td><td>JOGLO</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>90</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS TAMAN ALFA INDAH</td><td>JL. PALEM NO. 38</td><td>JOGLO</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>14</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>TPS HUTAN KOTA SRENGSENG</td><td>JL. HUTAN KOTA</td><td>SRENGSENG</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>13</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>TPS ABATA</td><td>JL. HAJI MANDOR SALIM</td><td>SRENGSENG</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>LPS MERCUBUANA</td><td>JL. TOL LINGKAR LIAR JAKARTA</td><td>MERUYA SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>50</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS JL. INTAN RW 07</td><td>JL. INTAN BLOK F 13</td><td>MERUYA UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>25</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>LPS PASAR MINGGU</td><td>JL RAYA KEMBANGAN SELATAN</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>500</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>RPTRA KEMBANGAN UTARA</td><td>JL. KEMBANGAN UTARA</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>600</td><td>SWASTA</td></tr>
+        <tr><td>2020</td><td>TPS CNI</td><td>JL. PURI LINGKAR LUAR BLOK T 4 NO 12</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>DINAS LINGKUNGAN HIDUP</td></tr>
+        <tr><td>2020</td><td>TPS WALIKOTA JB</td><td>JL PURI WANGI NO. 20</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>PEMERINTAH</td></tr>
+        <tr><td>2020</td><td>BPN</td><td>JL KEMBANGAN UTARA NO. 7</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>15</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>BLOK D</td><td>JL. KEMBANGAN SAKTI TIMUR RAYA</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>45</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>RPTRA KEMBANGAN SELATAN</td><td>JL. KEMBANGAN ABADI</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>100</td><td>PERUMAHAN</td></tr>
+        <tr><td>2020</td><td>KEBANGAN BARU RW 03</td><td>JL. KEMBANGAN BARU BLOK AA NO. 2</td><td>KEMBANGAN SELATAN</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>20</td><td>WARGA</td></tr>
+        <tr><td>2020</td><td>PASAR KEMIRI RW 10</td><td>JL. KEMBANGAN BARU RW 10</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+        <tr><td>2020</td><td>RW 06 BASMOL</td><td>JL BASMOL NO 93</td><td>KEMBANGAN UTARA</td><td>KEMBANGAN</td><td>JAKARTA BARAT</td><td> </td><td>30</td><td>BAHU JALAN</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >
